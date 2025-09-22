@@ -138,7 +138,7 @@ er/əl/ n/n̩/ m/m̩/ ng/ŋ̩/
 
 注释：
 
-1.具体为pu、phu、bu、mu、fu、vu、u/wu读/uᵝ/，其余情况读/əu/。
+1.具体为pu、phu、bu、mu、fu、vu、u/wu读/uᵝ/，其余情况读/əu/。读/əu/个辰光可以拼写作ou。
 
 2.具体为ciq、chiq、jiq、shiq、iq/yiq、gniq读/ieʔ/，其余情况读/iɪʔ/。
 
