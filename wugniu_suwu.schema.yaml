@@ -85,6 +85,8 @@ speller:
     - derive/an/aon/
     # 走酒不分
     - derive/ieu/eu/
+    # 李旅不分
+    - derive/(?<=[szhl])iu/i/
     # 麻摩不分
     - derive/mu/mo/
     # 郭国不分
