@@ -14,6 +14,7 @@ import_tables:
   - wuphin.word
   - wuphin.map
   - wuphin.phrases
+
 ...
 
 資	tsy1
@@ -3355,6 +3356,7 @@ import_tables:
 田	die2
 鈿	die2
 佃	die2
+沺	die2
 甜	die2
 恬	die2
 闐	die2
