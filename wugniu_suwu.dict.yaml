@@ -756,8 +756,6 @@ import_tables:
 二	gni6
 貳	gni6
 耳	gni6
-鬩	shiq7
-咭	shiq7
 囈	gni6
 旎	gni6
 餌	gni6
@@ -6321,6 +6319,7 @@ import_tables:
 彿	feq7
 紼	feq7
 紱	feq7
+祓	feq7
 黻	feq7
 芾	feq7
 佛	veq8
@@ -6850,6 +6849,8 @@ import_tables:
 咭	shiq7
 欯	shiq7
 赥	shiq7
+禊	shiq7
+褉	shiq7
 葉	yiq8
 頁	yiq8
 液	yiq8
