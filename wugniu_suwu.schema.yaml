@@ -27,7 +27,7 @@ switches:
   - name: ascii_punct
     states: [句讀, 符號]
   - options: [ noop, varients_wy, variants_hk, trad_tw, simplification]
-    states: [ 漢字, 吳越傳統漢字, 香港繁體漢字, 臺灣繁體漢字, 大陆简化汉字]
+    states: [ 漢字, 吳越傳統漢字, 香港繁體漢字, 臺灣正體漢字, 大陆简体汉字]
     reset: 4
 
 engine:
@@ -52,9 +52,9 @@ engine:
     - punct_translator
     - script_translator              # 主翻譯器
     - reverse_lookup_translator
-    - script_translator@luna_pinyin  # 用於反查的luna_pinyin翻譯器
+    - script_translator@luna_pinyin  # 用於反查个luna_pinyin翻譯器
     - table_translator@stroke        # 用於反查个stroke翻譯器
-    - table_translator@custom_phrase # 用戶短語
+    - table_translator@custom_phrase # 用戸短語
   filters:
     - simplifier@varients_wy
     - simplifier@variants_hk
@@ -158,8 +158,8 @@ custom_phrase:
 
 # 反查濾鏡
 wy_reverse_lookup:
-  tags: [luna_pinyin, stroke] # 掛在上翻譯器luna_pinyin和stroke上
-  overwrite_comment: true     # 覆蓋其他提示
+  tags: [luna_pinyin, stroke] # 掛在翻譯器luna_pinyin搭stroke上向
+  overwrite_comment: true     # 其他提示覆蓋脱
   dictionary: wugniu_suwu  # 反查所得為蘇滬吳拼
   comment_format:
     __include: translator/comment_format 
