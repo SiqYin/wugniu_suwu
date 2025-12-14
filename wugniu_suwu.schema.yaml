@@ -107,6 +107,8 @@ speller:
     # 簡拼
     - abbrev/^([a-z]).+$/$1/
     - abbrev/^([pmtnlszckg]h|gn|ng|tsh?|dz).+$/$1/
+    # uen韻簡拼
+    - derive/uen/un/
     # 容差 au => ao
     - derive/au/ao/
     # c組聲母後自動加i
