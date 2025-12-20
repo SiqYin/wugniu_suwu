@@ -28,7 +28,7 @@ switches:
     states: [句讀, 符號]
   - options: [ noop, varients_wy, variants_hk, trad_tw, simplification]
     states: [ 漢字, 吳越傳統漢字, 香港繁體漢字, 臺灣正體漢字, 大陆简体汉字]
-    reset: 4
+    reset: 1
 
 engine:
   processors:
@@ -93,7 +93,7 @@ speller:
     - derive/(?<=[szhl])iu/i/
     # 麻摩弗分
     - derive/mu/mo/
-    # 郭囻弗分
+    # 郭國弗分
     - derive/ueq/oq/
     # u韻變躰
     - derive/u/ou/
@@ -126,7 +126,7 @@ translator:
   prism: wugniu_suwu      # 根據拼寫運算生成棱鏡文件wugniu_suwu
   spelling_hints: 1          # 標註拼音
   comment_format:
-    # 単字調弗顯示
+    # 單字調弗顯示
     - xform/\d//
 
 # 副翻譯器1 明月拼音
