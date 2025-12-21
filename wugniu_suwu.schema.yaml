@@ -3,7 +3,7 @@
 
 schema:
   schema_id: wugniu_suwu
-  name: 吳越語
+  name: 吳語（蘇滬混合腔）
   version: "2025.08.15"
   author:
     - 予安 <181065229@qq.com> (dict)
@@ -28,7 +28,7 @@ switches:
     states: [句讀, 符號]
   - options: [ noop, varients_wy, variants_hk, trad_tw, simplification]
     states: [ 漢字, 吳越傳統漢字, 香港繁體漢字, 臺灣正體漢字, 大陆简体汉字]
-    reset: 1
+    reset: 4
 
 engine:
   processors:
@@ -126,7 +126,7 @@ translator:
   prism: wugniu_suwu      # 根據拼寫運算生成棱鏡文件wugniu_suwu
   spelling_hints: 1          # 標註拼音
   comment_format:
-    # 單字調弗顯示
+    # 単字調弗顯示
     - xform/\d//
 
 # 副翻譯器1 明月拼音
