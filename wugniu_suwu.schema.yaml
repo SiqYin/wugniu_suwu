@@ -3,7 +3,7 @@
 
 schema:
   schema_id: wugniu_suwu
-  name: 吳語（蘇滬混合腔）
+  name: 吳越語
   version: "2025.08.15"
   author:
     - 予安 <181065229@qq.com> (dict)
@@ -26,9 +26,9 @@ switches:
     states: [半角, 全角]
   - name: ascii_punct
     states: [句讀, 符號]
-  - options: [ noop, varients_wy, variants_hk, trad_tw, simplification]
-    states: [ 漢字, 吳越傳統漢字, 香港繁體漢字, 臺灣正體漢字, 大陆简体汉字]
-    reset: 4
+  - options: [ noop, varients_wy, variants_hk, trad_tw, varients_jp, varients_gj, simplification]
+    states: [ 漢字, 吳越傳統漢字, 香港傳統漢字, 臺灣傳統漢字, 日本新字体, 大陸傳統漢字, 大陆简化汉字]
+    reset: 6 #填0到6以選擇默認輸出漢字
 
 engine:
   processors:
@@ -59,6 +59,8 @@ engine:
     - simplifier@varients_wy
     - simplifier@variants_hk
     - simplifier@trad_tw
+    - simplifier@varients_jp
+    - simplifier@varients_gj
     - simplifier
     - uniquifier
     - reverse_lookup_filter@wy_reverse_lookup # 反查濾鏡
@@ -93,7 +95,7 @@ speller:
     - derive/(?<=[szhl])iu/i/
     # 麻摩弗分
     - derive/mu/mo/
-    # 郭國弗分
+    # 郭囻弗分
     - derive/ueq/oq/
     # u韻變躰
     - derive/u/ou/
@@ -177,6 +179,14 @@ variants_hk:
 trad_tw:
   option_name: trad_tw
   opencc_config: t2tw.json
+  
+varients_jp:
+  option_name: varients_jp
+  opencc_config: t2jp.json
+  
+varients_gj:
+  option_name: varients_gj
+  opencc_config: t2gj.json
   
 punctuator:
   import_preset: symbols_wu # 句讀處理器，統一從外部導入
