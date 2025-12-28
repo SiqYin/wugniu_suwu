@@ -169,7 +169,7 @@ wy_reverse_lookup:
     
 varients_wy:
   option_name: varients_wy
-  opencc_config: t2wy.json
+  opencc_config: s2wy.json
   
 variants_hk:
   option_name: variants_hk
