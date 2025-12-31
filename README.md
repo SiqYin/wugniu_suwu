@@ -1,6 +1,6 @@
-苏沪混合腔是吴语以中派苏州话与老派上海话箇两种接近个吴语方言为基础，兼考北部吴语诸方言音韵特征个混合腔口。苏沪混合腔个音系与字音经过仔审音与语音规范哉。苏沪混合腔属于吴语自然方言个变体。
+苏沪混合腔是吴语以中派苏州话与老派上海话箇两种接近个吴语方言为基础，兼考北部吴语诸方言音韵特征个混合腔口。苏沪混合腔个音系与字音经过仔审音与语音规范哉。苏沪混合腔属于吴语自然方言个规范化变体。
 
-Souwu wengheqchiaon zŷ Wugniu ì tsonpha Soutseughegho yû lâupha Zaonheghegho geqliantson tsiqjìn keq Wugniu faonye we citshou, ciekhau poqbù Wugniu tsyufaonye inyun deqtsen keq wengheq chiaonkheu. Souwu wengheqchiaon keq inyi yû zŷin cinkoutsy sěnin yû gniuinkueve tse. Souwu wengheqchiaon zoqyu Wugniu zyzoefaonye keq piěthi.
+Souwu wengheqchiaon zŷ Wugniu ì tsonpha Soutseughegho yû lâupha Zaonheghegho geqliantson tsiqjìn keq Wugniu faonye we citshou, ciekhau poqbù Wugniu tsyufaonye inyun deqtsen keq wengheq chiaonkheu. Souwu wengheqchiaon keq inyi yû zŷin cinkoutsy sěnin yû gniuinkueve tse. Souwu wengheqchiaon zoqyu Wugniu zyzoefaonye keq kueveho piěthi.
 
 
 
