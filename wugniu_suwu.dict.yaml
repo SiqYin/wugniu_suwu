@@ -1048,6 +1048,7 @@ import_tables:
 轤	lu2
 艫	lu2
 羅	lu2
+罖	lu2
 鑼	lu2
 籮	lu2
 囉	lu2
@@ -1251,6 +1252,7 @@ import_tables:
 狐	wu2
 弧	wu2
 乎	wu2
+乊	wu2
 和	wu2
 河	wu2
 何	wu2
@@ -1401,8 +1403,9 @@ import_tables:
 窬	yu2
 嵛	yu2
 崳	yu2
+于	yu2
 於	yu2
-於	yu2
+仒	yu2
 圩	yu2
 予	yu2
 妤	yu2
@@ -1765,6 +1768,7 @@ import_tables:
 喏	no2
 哪	no6
 喏	no6
+雫	no6
 哪	lo6
 查	tso1
 渣	tso1
@@ -1833,6 +1837,7 @@ import_tables:
 誇	kho1
 夸	kho1
 垮	kho3
+峠	kho3
 跨	kho5
 胯	kho5
 侉	kho5
@@ -2906,6 +2911,7 @@ import_tables:
 疸	te3
 撣	te3
 對	te5
+襨	te5
 碓	te5
 戴	te5
 帶	te5
@@ -3421,6 +3427,7 @@ import_tables:
 點	tie3
 典	tie3
 碘	tie3
+猠	tie3
 玷	tie3
 店	tie5
 惦	tie5
@@ -5369,6 +5376,7 @@ import_tables:
 脗	min3
 䐇	min3
 命	min6
+椧	min6
 抿	min6
 䐇	min6
 丁	tin1
@@ -6288,6 +6296,7 @@ import_tables:
 謫	tsaq7
 籷	tsaq7
 尺	tshaq7
+呎	tshaq7
 赤	tshaq7
 綽	tshaq7
 焯	tshaq7
@@ -6488,6 +6497,7 @@ import_tables:
 黜	tsheq7
 冊	tsheq7
 尺	tsheq7
+呎	tsheq7
 輟	tsheq7
 啜	tsheq7
 歠	tsheq7
@@ -6528,6 +6538,7 @@ import_tables:
 趿	seq7
 十	zeq8
 什	zeq8
+辻	zeq8
 拾	zeq8
 石	zeq8
 蝕	zeq8
@@ -6916,6 +6927,7 @@ import_tables:
 熱	gniq8
 日	gniq8
 入	gniq8
+鳰	gniq8
 𡍤	gniq8
 溺	gniq8
 歇	shiq7
