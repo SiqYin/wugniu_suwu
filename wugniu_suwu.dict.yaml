@@ -169,6 +169,7 @@ import_tables:
 煮	tsyu3
 渚	tsyu3
 嘴	tsyu3
+丶	tsyu3
 嘴	tse3
 嘴	tsoe3
 咫	tsyu3
@@ -324,6 +325,7 @@ import_tables:
 秕	pi3
 妣	pi3
 鄙	pi3
+夶	pi3
 秘	pi5
 祕	pi5
 泌	pi5
@@ -480,6 +482,7 @@ import_tables:
 悌	di6
 隸	di6
 棣	di6
+乄	di6
 你	ni1
 俚	li1
 梨	li2
@@ -1240,6 +1243,7 @@ import_tables:
 唬	hu3
 滸	hu3
 火	hu3
+灬	hu3
 伙	hu3
 夥	hu3
 戽	hu3
@@ -2047,6 +2051,7 @@ import_tables:
 鈔	tshau1
 超	tshau1
 草	tshau3
+艹	tshau3
 吵	tshau3
 炒	tshau3
 鈔	tshau3
@@ -3196,6 +3201,7 @@ import_tables:
 杉	se1
 睢	se1
 潸	se1
+彡	se1
 綏	soe5
 芟	se1
 噻	se1
@@ -3720,9 +3726,12 @@ import_tables:
 染	gnie6
 硯	gnie6
 諺	gnie6
+峴	gnie6
 儼	gnie6
 釅	gnie6
 罱	gnie6
+讞	gnie6
+巘	gnie6
 掀	shie1
 軒	shie1
 妗	shie1
@@ -4118,6 +4127,7 @@ import_tables:
 攛	tshoe1
 穿	tshoe1
 川	tshoe1
+巛	tshoe1
 䱗	tshoe1
 汆	tshoe1
 詀	tshoe1
@@ -5806,6 +5816,7 @@ import_tables:
 輥	kuen3
 鯀	kuen3
 錕	kuen3
+丨	kuen3
 坤	khuen1
 昆	khuen1
 琨	khuen1
@@ -5814,6 +5825,7 @@ import_tables:
 鵾	khuen1
 堃	khuen1
 髡	khuen1
+巛	khuen1
 捆	khuen3
 閫	khuen3
 困	khuen5
@@ -6744,6 +6756,7 @@ import_tables:
 霹	phiq7
 匹	phiq7
 氕	phiq7
+丿	phiq7
 別	biq8
 蹩	biq8
 弼	biq8
@@ -6846,6 +6859,7 @@ import_tables:
 即	tsiq7
 鯽	tsiq7
 唧	tsiq7
+卩	tsiq7
 脊	tsiq7
 嵴	tsiq7
 鶺	tsiq7
@@ -6855,6 +6869,7 @@ import_tables:
 浹	tsiq7
 楫	tsiq7
 勣	tsiq7
+尐	tsiq7
 切	tshiq7
 竊	tshiq7
 妾	tshiq7
