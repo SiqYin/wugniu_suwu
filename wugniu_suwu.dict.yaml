@@ -3069,6 +3069,7 @@ import_tables:
 檀	de2
 壇	de2
 駘	de2
+郯	de2
 隊	de6
 兌	de6
 代	de6
@@ -3368,6 +3369,7 @@ import_tables:
 在	ze6
 載	ze6
 寨	ze6
+砦	ze6
 殘	ze6
 棧	ze6
 慚	ze6
@@ -3432,6 +3434,7 @@ import_tables:
 巖	nge2
 銜	nge2
 獃	nge2
+啱	nge2
 礙	nge6
 眼	nge6
 艾	nge6
@@ -3463,6 +3466,7 @@ import_tables:
 氦	ghe6
 埃	e1
 唉	e1
+啱	e1
 挨	e1
 欸	e1
 哀	e1
@@ -3781,13 +3785,17 @@ import_tables:
 年	gnie2
 嚴	gnie2
 閻	gnie2
+閆	gnie2
 妍	gnie2
 撚	gnie3
 輦	gnie3
 攆	gnie3
 廿	gnie6
+广	gnie6
 癮	gnie6
 驗	gnie6
+騐	gnie6
+験	gnie6
 念	gnie6
 唸	gnie6
 染	gnie6
@@ -3852,11 +3860,13 @@ import_tables:
 冶	ye6
 剡	ye6
 琰	ye6
+焱	ye6
 灩	ye6
 衍	ye6
 𧍢	ye6
 煙	ie1
 菸	ie1
+烟	ie1
 胭	ie1
 咽	ie1
 閹	ie1
@@ -3870,6 +3880,8 @@ import_tables:
 蔫	ie1
 也	ie1
 耶	ie1
+燕	ie1
+郾	ie1
 演	ie3
 奄	ie3
 掩	ie3
@@ -3877,9 +3889,12 @@ import_tables:
 厴	ie3
 衍	ie3
 偃	ie3
+郾	ie3
+焱	ie3
 燕	ie5
 嚥	ie5
 讌	ie5
+嬿	ie5
 咽	ie5
 厭	ie5
 饜	ie5
@@ -6856,6 +6871,7 @@ import_tables:
 㷈	eq7
 盦	eq7
 呃	eq7
+閼	eq7
 癟	piq7
 𤉤	piq7
 㢼	piq7
