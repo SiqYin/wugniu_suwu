@@ -4121,6 +4121,7 @@ import_tables:
 鍛	toe5
 貪	thoe1
 湍	thoe1
+疃	thoe3
 探	thoe5
 撢	thoe5
 團	doe2
@@ -4176,6 +4177,8 @@ import_tables:
 覘	tsoe1
 霑	tsoe1
 專	tsoe1
+専	tsoe1
+叀	tsoe1
 磚	tsoe1
 鱣	tsoe1
 顓	tsoe1
@@ -4183,6 +4186,7 @@ import_tables:
 展	tsoe3
 輾	tsoe3
 轉	tsoe3
+転	tsoe3
 佔	tsoe5
 戰	tsoe5
 顫	tsoe5
@@ -4196,6 +4200,7 @@ import_tables:
 攛	tshoe1
 穿	tshoe1
 川	tshoe1
+氚	tshoe1
 巛	tshoe1
 䱗	tshoe1
 汆	tshoe1
@@ -4237,10 +4242,12 @@ import_tables:
 燃	zoe2
 船	zoe2
 傳	zoe2
+伝	zoe2
 椽	zoe2
 纏	zoe2
 髥	zoe2
 髯	zoe2
+遄	zoe2
 纏	zoe6
 單	zoe6
 禪	zoe6
@@ -4256,6 +4263,7 @@ import_tables:
 冉	zoe6
 染	zoe6
 傳	zoe6
+伝	zoe6
 篆	zoe6
 攢	zoe6
 撰	zoe6
@@ -5030,6 +5038,7 @@ import_tables:
 桄	khuaon1
 礦	khuaon3
 曠	khuaon3
+夼	khuaon3
 壙	khuaon5
 爌	khuaon5
 狂	guaon2
@@ -5166,6 +5175,7 @@ import_tables:
 嶝	ten5
 吞	then1
 氽	then3
+畽	then3
 𤊯	then3
 噸	then3
 屯	den2
