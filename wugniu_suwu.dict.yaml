@@ -1253,11 +1253,14 @@ import_tables:
 鵝	ngu2
 蛾	ngu2
 俄	ngu2
+皒	ngu2
 娥	ngu2
 鋨	ngu2
 峨	ngu2
 哦	ngu2
+莪	ngu2
 訛	ngu2
+吪	ngu2
 吾	ngu6
 悟	ngu6
 寤	ngu6
@@ -1347,6 +1350,7 @@ import_tables:
 倭	u1
 阿	u1
 婀	u1
+痾	u1
 撾	u1
 屙	u5
 焐	u5
@@ -1745,6 +1749,8 @@ import_tables:
 訝	ia3
 迓	ia3
 啞	ia3
+瘂	ia3
+唖	ia3
 夜	ia5
 乖	kua1
 拐	kua3
@@ -1933,6 +1939,8 @@ import_tables:
 窪	o1
 搲	o1
 啞	o3
+瘂	o3
+唖	o3
 哦	o3
 堊	o5
 靴	shio1
@@ -7600,6 +7608,8 @@ import_tables:
 鄂	ngoq8
 鱷	ngoq8
 愕	ngoq8
+諤	ngoq8
+堮	ngoq8
 顎	ngoq8
 鶚	ngoq8
 鍔	ngoq8
@@ -7608,6 +7618,7 @@ import_tables:
 萼	ngoq8
 噩	ngoq8
 鱷	ngoq8
+讍	ngoq8
 鶴	ngoq8
 嶽	ngoq8
 岳	ngoq8
@@ -7639,6 +7650,7 @@ import_tables:
 齷	oq7
 沃	oq7
 惡	oq7
+悪	oq7
 噁	oq7
 覺	cioq7
 角	cioq7
