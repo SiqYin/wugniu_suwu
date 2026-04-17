@@ -217,13 +217,16 @@ import_tables:
 耻	tshyu3
 侈	tshyu3
 處	tshyu3
+処	tshyu3
 褚	tshyu3
 鼠	tshyu3
 杵	tshyu3
 褫	tshyu3
 杼	tshyu3
+楮	tshyu3
 翅	tshyu5
 處	tshyu5
+処	tshyu5
 啻	tshyu5
 㥡	tshyu5
 詩	syu1
@@ -265,6 +268,7 @@ import_tables:
 持	zyu2
 廚	zyu2
 櫥	zyu2
+躕	zyu2
 除	zyu2
 滁	zyu2
 蜍	zyu2
@@ -1134,6 +1138,7 @@ import_tables:
 芻	tshu1
 楚	tshu3
 礎	tshu3
+憷	tshu3
 醋	tshu5
 措	tshu5
 錯	tshu5
@@ -6746,6 +6751,7 @@ import_tables:
 撮	tsheq7
 猝	tsheq7
 出	tsheq7
+岀	tsheq7
 齣	tsheq7
 絀	tsheq7
 黜	tsheq7
@@ -7324,6 +7330,7 @@ import_tables:
 缺	chiuq7
 屈	chiuq7
 炔	chiuq7
+詘	chiuq7
 掘	jiuq8
 崛	jiuq8
 倔	jiuq8
@@ -7552,6 +7559,7 @@ import_tables:
 謖	soq7
 叔	soq7
 菽	soq7
+俶	soq7
 束	soq7
 倏	soq7
 昨	zoq8
