@@ -5158,6 +5158,7 @@ import_tables:
 紛	fen1
 酚	fen1
 芬	fen1
+棻	fen1
 錀	fen1
 粉	fen3
 糞	fen5
@@ -5165,6 +5166,7 @@ import_tables:
 𡊅	fen5
 汾	ven2
 芬	ven2
+棻	ven2
 棼	ven2
 焚	ven2
 文	ven2
@@ -6756,6 +6758,8 @@ import_tables:
 焌	tsheq7
 黢	tsheq7
 膬	tsheq7
+彳	tsheq7
+怵	tsheq7
 澀	seq7
 塞	seq7
 色	seq7
@@ -7525,6 +7529,7 @@ import_tables:
 擉	tshoq7
 肏	tshoq7
 甴	tshoq7
+亍	tshoq7
 索	soq7
 嗦	soq7
 朔	soq7
