@@ -627,6 +627,8 @@ import_tables:
 洗	si3
 璽	si3
 徙	si3
+屣	si3
+躧	si3
 細	si5
 絮	siu5
 婿	siu5
@@ -2158,6 +2160,7 @@ import_tables:
 召	zau6
 紹	zau6
 邵	zau6
+卲	zau6
 造	zau6
 皂	zau6
 皁	zau6
@@ -3963,6 +3966,7 @@ import_tables:
 怪	kue5
 獪	kue5
 膾	kue5
+鄶	kue5
 慣	kue5
 鱖	kue5
 瞡	kue5
@@ -4521,6 +4525,8 @@ import_tables:
 頑	woe2
 阮	woe2
 丸	woe2
+芄	woe2
+雚	woe2
 紈	woe2
 桓	woe2
 換	woe6
@@ -6606,6 +6612,7 @@ import_tables:
 削	siaq7
 嚼	ziaq8
 腳	ciaq7
+屩	ciaq7
 卻	chiaq7
 榷	chiaq7
 醵	jiaq8
@@ -7364,6 +7371,7 @@ import_tables:
 鬱	iuq7
 𢺴	iuq7
 駁	poq7
+駮	poq7
 搏	poq7
 博	poq7
 膊	poq7
