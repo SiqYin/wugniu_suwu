@@ -1547,6 +1547,7 @@ import_tables:
 帶	ta5
 拖	tha1
 他	tha1
+怹	tha1
 她	tha1
 它	tha1
 太	tha5
@@ -3059,6 +3060,7 @@ import_tables:
 癱	the1
 灘	the1
 潬	the1
+嘽	the1
 坍	the1
 台	the1
 苔	the1
@@ -3082,6 +3084,7 @@ import_tables:
 嘆	the5
 炭	the5
 碳	the5
+羰	the5
 臺	de2
 檯	de2
 颱	de2
@@ -3090,9 +3093,14 @@ import_tables:
 苔	de2
 痰	de2
 談	de2
+錟	de2
+惔	de2
 彈	de2
 檀	de2
 壇	de2
+璮	de2
+坛	de2
+儃	de2
 駘	de2
 郯	de2
 隊	de6
@@ -3114,6 +3122,7 @@ import_tables:
 但	de6
 淡	de6
 啖	de6
+餤	de6
 啗	de6
 𥲄	de6
 氮	de6
@@ -3712,6 +3721,7 @@ import_tables:
 錢	zie2
 前	zie2
 撏	zie2
+蕁	zie2
 潛	zie2
 全	zie2
 全	ze2
@@ -3721,6 +3731,7 @@ import_tables:
 漩	zie2
 璿	zie2
 檈	zie2
+燂	zie2
 賤	zie6
 踐	zie6
 餞	zie6
@@ -4176,6 +4187,9 @@ import_tables:
 覃	doe2
 譚	doe2
 潭	doe2
+罈	doe2
+墵	doe2
+鐔	doe2
 曇	doe2
 壇	doe2
 摶	doe2
@@ -5759,6 +5773,7 @@ import_tables:
 嗪	zin2
 尋	zin2
 潯	zin2
+蕁	zin2
 旬	zin2
 詢	zin2
 殉	zin2
@@ -5771,6 +5786,8 @@ import_tables:
 晴	zin2
 情	zin2
 餳	zin2
+鐔	zin2
+儃	zin2
 盡	zin6
 儘	zin6
 燼	zin6
@@ -6385,6 +6402,7 @@ import_tables:
 𨅞	taeq7
 瘩	taeq7
 妲	taeq7
+靼	taeq7
 㿯	taeq7
 𠞈	taeq7
 𠹥	taeq7
@@ -6401,6 +6419,7 @@ import_tables:
 拓	thaeq7
 獺	thaeq7
 澾	thaeq7
+怛	thaeq7
 沓	daeq8
 達	daeq8
 鐽	daeq8
