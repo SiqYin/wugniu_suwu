@@ -698,6 +698,7 @@ import_tables:
 蹊	chi1
 豀	chi1
 谿	chi1
+㩻	chi1
 起	chi3
 啟	chi3
 啓	chi3
@@ -1917,6 +1918,8 @@ import_tables:
 胯	kho5
 侉	kho5
 瓦	ngo6
+疋	ngo6
+雅	ngo6
 花	ho1
 蝦	ho1
 譁	ho1
@@ -1945,6 +1948,7 @@ import_tables:
 掗	o1
 鴉	o1
 蛙	o1
+鮭	o1
 窪	o1
 搲	o1
 啞	o3
@@ -2587,6 +2591,7 @@ import_tables:
 頭	deu2
 投	deu2
 骰	deu2
+亠	deu2
 豆	deu6
 逗	deu6
 痘	deu6
@@ -3952,6 +3957,8 @@ import_tables:
 龜	kue1
 瑰	kue1
 圭	kue1
+珪	kue1
+鮭	kue1
 硅	kue1
 閨	kue1
 關	kue1
@@ -4015,6 +4022,7 @@ import_tables:
 柜	gue6
 摜	gue6
 揆	gue6
+攰	gue6
 灰	hue1
 恢	hue1
 詼	hue1
@@ -6175,6 +6183,7 @@ import_tables:
 籠	lon2
 蘢	lon2
 礱	lon2
+蠪	lon2
 隆	lon2
 窿	lon2
 櫳	lon2
@@ -6973,6 +6982,7 @@ import_tables:
 匹	phiq7
 氕	phiq7
 丿	phiq7
+疋	phiq7
 別	biq8
 蹩	biq8
 弼	biq8
