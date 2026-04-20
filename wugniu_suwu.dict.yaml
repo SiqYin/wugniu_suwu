@@ -3040,6 +3040,7 @@ import_tables:
 䥑	ve6
 堆	te1
 單	te1
+単	te1
 鄲	te1
 簞	te1
 耽	te1
@@ -3105,6 +3106,7 @@ import_tables:
 錟	de2
 惔	de2
 彈	de2
+弾	de2
 檀	de2
 壇	de2
 璮	de2
@@ -3136,6 +3138,7 @@ import_tables:
 𥲄	de6
 氮	de6
 彈	de6
+弾	de6
 澹	de6
 憚	de6
 乃	ne1
@@ -3866,6 +3869,7 @@ import_tables:
 莧	shie5
 峴	shie5
 鹽	ye2
+塩	ye2
 言	ye2
 訁	ye2
 炎	ye2
@@ -3898,7 +3902,10 @@ import_tables:
 唁	ye6
 兗	ye6
 鹽	ye6
+塩	ye6
 豔	ye6
+艷	ye6
+艶	ye6
 現	ye6
 陷	ye6
 焰	ye6
@@ -4324,6 +4331,7 @@ import_tables:
 遄	zoe2
 纏	zoe6
 單	zoe6
+単	zoe6
 禪	zoe6
 闡	zoe6
 善	zoe6
@@ -5174,6 +5182,7 @@ import_tables:
 賁	phen1
 弸	phen1
 盆	ben2
+湓	ben2
 朋	ben2
 鵬	ben2
 棚	ben2
@@ -5761,6 +5770,7 @@ import_tables:
 請	tshin3
 沁	tshin5
 心	sin1
+鈊	sin1
 芯	sin1
 辛	sin1
 鋅	sin1
@@ -5778,6 +5788,7 @@ import_tables:
 省	sin3
 隼	sin3
 信	sin5
+訫	sin5
 訊	sin5
 汛	sin5
 迅	sin5
@@ -5917,7 +5928,11 @@ import_tables:
 䵑	gnin6
 認	gnin6
 忻	shin1
+訢	shin1
+炘	shin1
+焮	shin1
 昕	shin1
+盺	shin1
 欣	shin1
 歆	shin1
 馨	shin1
