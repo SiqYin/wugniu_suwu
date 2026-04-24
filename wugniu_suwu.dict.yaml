@@ -4361,6 +4361,7 @@ import_tables:
 撰	zoe6
 饌	zoe6
 乾	koe1
+干	koe1
 肝	koe1
 竿	koe1
 甘	koe1
@@ -4382,6 +4383,7 @@ import_tables:
 感	koe3
 㔶	koe3
 幹	koe5
+榦	koe5
 紺	koe5
 淦	koe5
 㔶	koe5
@@ -4406,6 +4408,8 @@ import_tables:
 酣	hoe1
 憨	hoe1
 頇	hoe1
+嫨	hoe1
+厂	hoe3
 熯	hoe5
 漢	hoe5
 暵	hoe5
@@ -4415,6 +4419,7 @@ import_tables:
 寒	ghoe2
 含	ghoe2
 晗	ghoe2
+焓	ghoe2
 函	ghoe2
 涵	ghoe2
 翰	ghoe2
@@ -4432,7 +4437,9 @@ import_tables:
 憾	ghoe6
 琀	ghoe6
 頷	ghoe6
+頜	ghoe6
 菡	ghoe6
+譀	ghoe6
 澣	uoe3
 翰	ghoe6
 瀚	ghoe6
@@ -6911,7 +6918,6 @@ import_tables:
 陟	zeq8
 個	keq7
 个	keq7
-ケ	keq7
 革	keq7
 緙	keq7
 愅	keq7
@@ -6926,6 +6932,7 @@ import_tables:
 蛤	keq7
 鉿	keq7
 鴿	keq7
+頜	keq7
 郃	keq7
 佮	keq7
 隔	keq7
