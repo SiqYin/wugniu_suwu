@@ -1747,6 +1747,7 @@ import_tables:
 野	ya6
 冶	ya6
 夜	ya6
+薤	ya6
 呀	ia1
 鴉	ia1
 霞	ia1
@@ -1931,6 +1932,7 @@ import_tables:
 花	ho1
 蝦	ho1
 譁	ho1
+獬	ho3
 煆	ho5
 罅	ho5
 化	ho5
@@ -2470,6 +2472,7 @@ import_tables:
 較	ciau5
 校	ciau5
 珓	ciau5
+藠	ciau5
 蹺	chiau1
 敲	chiau1
 橇	chiau1
@@ -3922,6 +3925,7 @@ import_tables:
 野	ye6
 懈	ye6
 邂	ye6
+獬	ye6
 械	ye6
 冶	ye6
 剡	ye6
@@ -6544,6 +6548,7 @@ import_tables:
 嘎	kaeq7
 䀫	kaeq7
 釓	kaeq7
+劼	kaeq7
 掐	khaeq7
 恰	khaeq7
 哢	khaeq7
@@ -7241,6 +7246,8 @@ import_tables:
 鋏	ciq7
 墼	ciq7
 亟	ciq7
+訐	ciq7
+劼	ciq7
 怯	chiq7
 泣	chiq7
 乞	chiq7
@@ -7316,6 +7323,8 @@ import_tables:
 曄	yiq8
 燁	yiq8
 越	yiq8
+劦	yiq8
+勰	yiq8
 協	yiq8
 睪	yiq8
 譯	yiq8
@@ -7342,6 +7351,7 @@ import_tables:
 挾	yiq8
 擷	yiq8
 纈	yiq8
+叶	yiq8
 噎	iq7
 咽	iq7
 掖	iq7
