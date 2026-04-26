@@ -161,6 +161,7 @@ import_tables:
 梔	tsyu1
 脂	tsyu1
 酯	tsyu1
+祗	tsyu1
 旨	tsyu3
 指	tsyu3
 止	tsyu3
@@ -462,6 +463,7 @@ import_tables:
 啲	ti1
 氐	ti1
 胝	ti1
+袛	ti1
 氐	ti3
 底	ti3
 抵	ti3
@@ -749,6 +751,7 @@ import_tables:
 耆	ji2
 騏	ji2
 畿	ji2
+祗	ji2
 忌	ji6
 跽	ji6
 技	ji6
@@ -6816,6 +6819,8 @@ import_tables:
 質	tseq7
 郅	tseq7
 只	tseq7
+祗	tseq7
+衹	tseq7
 職	tseq7
 織	tseq7
 咫	tseq7
