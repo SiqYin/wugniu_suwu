@@ -3037,6 +3037,9 @@ import_tables:
 寐	me6
 魅	me6
 萬	me6
+卐	me6
+卍	me6
+万	me6
 邁	me6
 曼	me6
 慢	me6
@@ -3048,6 +3051,7 @@ import_tables:
 袂	me6
 謎	me6
 晚	me6
+晩	me6
 瑁	me6
 媚	me6
 煝	me6
@@ -3073,6 +3077,9 @@ import_tables:
 藩	ve2
 飯	ve6
 萬	ve6
+卐	ve6
+卍	ve6
+万	ve6
 范	ve6
 範	ve6
 犯	ve6
@@ -4198,6 +4205,7 @@ import_tables:
 薈	ue5
 彎	ue5
 晚	ue5
+晩	ue5
 畏	ue5
 喂	ue5
 餵	ue5
@@ -4600,6 +4608,7 @@ import_tables:
 館	kuoe3
 杆	kuoe3
 莞	kuoe3
+脘	kuoe3
 貫	kuoe5
 毌	kuoe5
 罐	kuoe5
@@ -4629,6 +4638,7 @@ import_tables:
 紈	woe2
 桓	woe2
 換	woe6
+翫	woe6
 宛	uoe3
 碗	uoe3
 婉	uoe3
@@ -4643,6 +4653,7 @@ import_tables:
 浣	uoe3
 緩	uoe3
 莞	uoe3
+脘	uoe3
 菀	uoe3
 援	uoe3
 浜	pan1
