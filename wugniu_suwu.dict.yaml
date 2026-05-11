@@ -1116,6 +1116,7 @@ import_tables:
 壚	lu2
 轤	lu2
 艫	lu2
+𤬛	lu2
 羅	lu2
 罖	lu2
 鑼	lu2
@@ -3165,6 +3166,8 @@ import_tables:
 儃	de2
 駘	de2
 郯	de2
+隤	de2
+㢈	de2
 隊	de6
 兌	de6
 代	de6
@@ -4071,6 +4074,7 @@ import_tables:
 筷	khue1
 睽	khue1
 㩻	khue1
+蝰	khue1
 傀	khue3
 磈	khue3
 巋	khue3
@@ -4109,6 +4113,8 @@ import_tables:
 翬	hue1
 麾	hue1
 隳	hue1
+虺	hue1
+蝰	hue1
 毀	hue3
 燬	hue3
 悔	hue3
@@ -5154,6 +5160,7 @@ import_tables:
 港	kaon3
 講	kaon3
 杠	kaon5
+槓	kaon5
 槓	kaon5
 降	kaon5
 坑	khaon1
@@ -6419,6 +6426,7 @@ import_tables:
 宮	kon1
 肱	kon1
 觥	kon1
+篢	kon1
 鞏	kon3
 珙	kon3
 供	kon5
