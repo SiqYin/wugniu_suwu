@@ -39,6 +39,7 @@ import_tables:
 貲	tsy1
 訾	tsy1
 卮	tsy1
+巵	tsy1
 粢	tsy1
 錐	tsy1
 吱	tsy1
@@ -2268,6 +2269,7 @@ import_tables:
 廒	ngau2
 翱	ngau2
 壕	ngau2
+鰲	ngau2
 咬	ngau6
 傲	ngau6
 鏊	ngau6
@@ -3202,6 +3204,7 @@ import_tables:
 奈	ne6
 錼	ne6
 倷	ne6
+螚	ne6
 雷	le2
 擂	le2
 檑	le2
@@ -4024,6 +4027,7 @@ import_tables:
 龜	kue1
 瑰	kue1
 圭	kue1
+邽	kue1
 珪	kue1
 鮭	kue1
 硅	kue1
@@ -4035,6 +4039,7 @@ import_tables:
 乖	kue1
 潙	kue1
 嬀	kue1
+槻	kue1
 軌	kue3
 鬼	kue3
 詭	kue3
@@ -4056,6 +4061,7 @@ import_tables:
 鱖	kue5
 瞡	kue5
 矔	kue5
+劌	kue5
 虧	khue1
 盔	khue1
 恢	khue1
@@ -4063,6 +4069,7 @@ import_tables:
 奎	khue1
 筷	khue1
 睽	khue1
+㩻	khue1
 傀	khue3
 磈	khue3
 巋	khue3
@@ -6000,6 +6007,7 @@ import_tables:
 饉	jin6
 覲	jin6
 廑	jin6
+黥	jin6
 寧	gnin2
 檸	gnin2
 嚀	gnin2
@@ -6116,6 +6124,7 @@ import_tables:
 隱	in3
 䌥	in3
 癮	in3
+檃	in3
 飲	in3
 影	in3
 郢	in3
@@ -6664,6 +6673,7 @@ import_tables:
 颳	kuaeq7
 括	kuaeq7
 适	kuaeq7
+栝	kuaeq7
 鴰	kuaeq7
 摑	kuaeq7
 聒	kuaeq7
