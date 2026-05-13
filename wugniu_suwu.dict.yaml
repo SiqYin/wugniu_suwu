@@ -342,6 +342,7 @@ import_tables:
 妣	pi3
 鄙	pi3
 夶	pi3
+娝	pi3
 秘	pi5
 祕	pi5
 泌	pi5
@@ -485,6 +486,7 @@ import_tables:
 諦	ti5
 蒂	ti5
 碲	ti5
+媂	ti5
 梯	thi1
 銻	thi1
 綈	thi1
@@ -823,6 +825,7 @@ import_tables:
 尔	gni6
 鉨	gni6
 鑈	gni6
+掜	gni6
 希	shi1
 稀	shi1
 浠	shi1
@@ -1643,7 +1646,6 @@ import_tables:
 耍	sa3
 啥	sa5
 倽	sa5
-卅	saeq7
 柴	za2
 㾹	za2
 射	za6
@@ -2498,6 +2500,8 @@ import_tables:
 鉸	ciau3
 絞	ciau3
 皎	ciau3
+姣	ciau3
+㚣	ciau3
 筊	ciau3
 僥	ciau3
 矯	ciau3
@@ -2608,7 +2612,15 @@ import_tables:
 要	iau5
 窅	iau5
 剖	pheu1
+婄	pheu3
+瓿	pheu3
 抔	beu2
+捊	beu2
+抙	beu2
+掊	beu2
+箁	beu2
+婄	beu2
+婄	beu6
 某	meu2
 謀	meu2
 矛	meu2
@@ -2665,6 +2677,7 @@ import_tables:
 髏	leu2
 蔞	leu2
 僂	leu2
+軁	leu2
 劉	lieu2
 瀏	lieu2
 留	lieu2
@@ -2739,6 +2752,7 @@ import_tables:
 藪	seu3
 叟	seu3
 手	seu3
+扌	seu3
 首	seu3
 守	seu3
 溲	seu3
@@ -2869,6 +2883,7 @@ import_tables:
 丘	chieu1
 邱	chieu1
 蚯	chieu1
+搝	chieu3
 求	jieu2
 球	jieu2
 裘	jieu2
@@ -3013,6 +3028,7 @@ import_tables:
 焙	be6
 倍	be6
 蓓	be6
+掊	be6
 被	be6
 備	be6
 憊	be6
@@ -3874,6 +3890,7 @@ import_tables:
 騫	chie1
 蹇	chie3
 愆	chie1
+攑	chie1
 䭤	chie3
 縴	chie5
 欠	chie5
@@ -5172,6 +5189,7 @@ import_tables:
 綱	kaon1
 崗	kaon1
 扛	kaon1
+摃	kaon1
 缸	kaon1
 肛	kaon1
 江	kaon1
@@ -5199,6 +5217,7 @@ import_tables:
 匟	khaon5
 鈧	khaon5
 扛	gaon2
+摃	gaon2
 戇	gaon6
 昂	ngaon2
 行	ghaon2
@@ -6526,6 +6545,7 @@ import_tables:
 容	yon2
 溶	yon2
 榕	yon2
+嫆	yon2
 熔	yon2
 蓉	yon2
 榮	yon2
@@ -6651,6 +6671,7 @@ import_tables:
 霎	saeq7
 箑	saeq7
 卅	saeq7
+鎩	saeq7
 雜	zaeq8
 炸	zaeq8
 閘	zaeq8
