@@ -14,8 +14,6 @@ import_tables:
   - wuphin.word
   - wuphin.map
   - wuphin.phrases
-  
-  
 
 ...
 
@@ -991,6 +989,8 @@ import_tables:
 釜	fu3
 黼	fu3
 脯	fu3
+俌	fu3
+俛	fu3
 副	fu3
 頫	fu3
 撫	fu3
