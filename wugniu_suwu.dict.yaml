@@ -1619,6 +1619,7 @@ import_tables:
 菈	la1
 垃	la2
 喇	la2
+旯	la2
 喇	laeq8
 哴	laon6
 賴	la6
@@ -1666,6 +1667,7 @@ import_tables:
 街	ka1
 傢	ka1
 跏	ka1
+旮	ka1
 假	ka3
 假	ka5
 界	ka5
@@ -7983,6 +7985,8 @@ import_tables:
 畜	shioq7
 蓄	shioq7
 旭	shioq7
+旮	shioq7
+旯	shioq7
 勖	shioq7
 勗	shioq7
 頊	shioq7
