@@ -14,6 +14,7 @@ import_tables:
   - wuphin.word
   - wuphin.map
   - wuphin.phrases
+  
 
 ...
 
@@ -997,7 +998,6 @@ import_tables:
 副	fu5
 富	fu5
 傅	fu5
-傅	vu6
 賦	fu5
 赴	fu5
 訃	fu5
@@ -1018,6 +1018,8 @@ import_tables:
 鳬	vu2
 鳧	vu2
 蚨	vu2
+廡	vu2
+傅	vu6
 武	vu6
 鵡	vu6
 嫵	vu6
@@ -1038,7 +1040,7 @@ import_tables:
 賻	vu6
 縛	vu6
 跗	vu6
-廡	vu2
+滏	vu6
 都	tu1
 多	tu1
 哆	tu1
