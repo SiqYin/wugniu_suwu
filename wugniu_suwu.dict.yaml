@@ -7182,8 +7182,6 @@ import_tables:
 扼	ngeq8
 軛	ngeq8
 月	ngeq8
-月	gnioq8
-月	gniuq8
 兀	ngeq8
 杌	ngeq8
 屼	ngeq8
@@ -7805,6 +7803,7 @@ import_tables:
 髑	doq8
 諾	noq8
 鍩	noq8
+傉	noq8
 洛	loq8
 駱	loq8
 烙	loq8
@@ -8031,12 +8030,15 @@ import_tables:
 跼	jioq8
 焗	jioq8
 軸	jioq8
+月	gnioq8
 褥	gnioq8
+縟	gnioq8
 搙	gnioq8
 玉	gnioq8
 獄	gnioq8
 肉	gnioq8
 𢫭	gnioq8
+月	gniuq8
 畜	shioq7
 蓄	shioq7
 旭	shioq7
