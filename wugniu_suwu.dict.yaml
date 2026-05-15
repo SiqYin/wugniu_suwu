@@ -3895,6 +3895,7 @@ import_tables:
 緘	cie1
 菅	cie1
 枅	cie1
+鞬	cie1
 繭	cie3
 簡	cie3
 檢	cie3
@@ -4200,6 +4201,7 @@ import_tables:
 晦	hue5
 喙	hue5
 翽	hue5
+濊	hue5
 為	we2
 爲	we2
 韋	we2
@@ -6920,6 +6922,7 @@ import_tables:
 鈈	peq7
 百	peq7
 伯	peq7
+沒	peq7
 拍	pheq7
 迫	pheq7
 泊	pheq7
@@ -6941,6 +6944,8 @@ import_tables:
 別	beq8
 鼻	beq8
 葡	beq8
+麼	meq8
+麽	meq8
 墨	meq8
 默	meq8
 物	meq8
@@ -6951,9 +6956,9 @@ import_tables:
 茉	meq8
 靺	meq8
 沒	meq8
-沒	peq7
 歿	meq8
 陌	meq8
+貊	meq8
 𩑦	meq8
 弗	feq7
 拂	feq7
@@ -7625,6 +7630,7 @@ import_tables:
 笏	hueq7
 寣	hueq7
 㦌	hueq7
+濊	hueq7
 活	weq8
 或	weq8
 惑	weq8
@@ -7736,12 +7742,12 @@ import_tables:
 摸	moq8
 漠	moq8
 膜	moq8
+貘	moq8
+獏	moq8
 寞	moq8
 瘼	moq8
 麼	moq8
 麽	moq8
-麼	meq8
-麽	meq8
 穆	moq8
 木	moq8
 沐	moq8
