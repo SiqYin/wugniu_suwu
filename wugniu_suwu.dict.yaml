@@ -72,7 +72,8 @@ import_tables:
 次	tshy5
 廁	tshy5
 痣	tshy5
-上	laon6
+上	laon6		#詞「浪/哴laon6」之本字
+丄	laon6
 絲	sy1
 鷥	sy1
 司	sy1
@@ -286,8 +287,6 @@ import_tables:
 殊	zyu2
 如	zyu2
 銣	zyu2
-如	naeq8
-如	na2
 茹	zyu2
 儒	zyu2
 孺	zyu2
@@ -1376,7 +1375,6 @@ import_tables:
 何	wu2
 何	gha2
 何	ha1
-何	han1
 荷	wu2
 禾	wu2
 猢	wu2
@@ -1626,7 +1624,9 @@ import_tables:
 那	na1
 㑚	na6
 哪	na6
-如何	na6
+如何	na6		#詞「哪na6」之本字
+如何	naeq8han1		#詞「納亨/吶哼naeq8han1」之本字
+如何然	na6nen2		#詞「哪能na6nen2」之本字
 娜	na1
 挪	na1
 奶	na1
@@ -3504,6 +3504,7 @@ import_tables:
 潺	ze2
 柴	ze2
 慚	ze2
+全	ze2		#詞「儕/才ze2」之本字
 遂	ze6
 遂	zoe6
 焠	ze6
@@ -3619,8 +3620,8 @@ import_tables:
 㾂	he1
 咍	he1
 海	he3
-許	he3
-許	ho5
+許	he3		#詞綴「-海/嗨he3（如勒海/叻嗨/在許）」之本字
+許	ho5		#詞綴「-化ho5」之本字
 醢	he3
 嗨	he3
 喊	he5
@@ -3866,7 +3867,6 @@ import_tables:
 蕁	zie2
 潛	zie2
 全	zie2
-全	ze2
 痊	zie2
 泉	zie2
 旋	zie2
@@ -4478,7 +4478,6 @@ import_tables:
 蟬	zoe2
 蟾	zoe2
 然	zoe2
-然	nen2
 燃	zoe2
 船	zoe2
 傳	zoe2
@@ -4666,7 +4665,7 @@ import_tables:
 楦	shioe5
 絢	shioe5
 員	yoe2
-在	leq8
+在	leq8		#詞「勒/叻leq8」之本字
 元	yoe2
 芫	yoe2
 園	yoe2
@@ -5482,6 +5481,7 @@ import_tables:
 鄧	den6
 𨄇	den6
 能	nen2
+然	nen2		#詞綴「-能nen2（如哪能/如何然na6nen2）」之本字
 黁	nen2
 嫩	nen6
 恁	nen6
@@ -5880,6 +5880,7 @@ import_tables:
 挺	thin3
 艇	thin3
 梃	thin3
+珽	thin3
 町	thin3
 亭	din2
 停	din2
@@ -6950,7 +6951,7 @@ import_tables:
 麽	meq8
 墨	meq8
 默	meq8
-物	meq8
+物	meq8		#詞綴「-末/麼meq8」之本字
 末	meq8
 沫	meq8
 抹	meq8
