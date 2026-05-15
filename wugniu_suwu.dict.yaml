@@ -265,6 +265,7 @@ import_tables:
 勢	syu5
 庶	syu5
 戍	syu5
+㲓	syu5
 恕	syu5
 豎	syu5
 時	zyu2
@@ -338,6 +339,7 @@ import_tables:
 汝	zyu6
 屄	pi1
 蓖	pi1
+毴	pi1
 比	pi3
 秕	pi3
 妣	pi3
@@ -5047,6 +5049,7 @@ import_tables:
 髈	phaon3
 胖	phaon5
 龐	baon2
+龎	baon2
 旁	baon2
 鰟	baon2
 膀	baon2
@@ -5056,6 +5059,10 @@ import_tables:
 彷	baon2
 防	baon2
 魴	baon2
+尨	baon2
+厖	baon2
+庬	baon2
+狵	baon2
 棒	baon6
 傍	baon6
 𰻞	bian2
@@ -5477,6 +5484,7 @@ import_tables:
 囤	den6
 𥫱	den6
 盾	den6
+楯	den6
 遁	den6
 鄧	den6
 𨄇	den6
@@ -6418,6 +6426,7 @@ import_tables:
 儂	non6
 弄	lon1
 龍	lon2
+竜	lon2
 隴	lon2
 瓏	lon2
 朧	lon2
@@ -6426,6 +6435,7 @@ import_tables:
 蘢	lon2
 礱	lon2
 蠪	lon2
+龒	lon2
 隆	lon2
 窿	lon2
 櫳	lon2
@@ -6502,6 +6512,7 @@ import_tables:
 重	zon2
 崇	zon2
 戎	zon2
+毧	zon2
 茸	zon2
 𩞉	zon2
 重	zon6
@@ -6581,6 +6592,8 @@ import_tables:
 邛	jion2
 筇	jion2
 蛩	jion2
+戎	gnion1
+毧	gnion2
 濃	gnion2
 絨	gnion2
 氄	gnion2
@@ -7684,6 +7697,7 @@ import_tables:
 血	shiuq7
 噱	shiuq7
 謔	shiuq7
+魆	shiuq7
 鉞	yuq8
 越	yuq8
 樾	yuq8
