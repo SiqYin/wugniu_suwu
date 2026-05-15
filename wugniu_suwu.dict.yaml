@@ -1344,6 +1344,7 @@ import_tables:
 訶	hu1
 嗬	hu1
 滹	hu1
+謼	hu1
 虎	hu3
 琥	hu3
 唬	hu3
@@ -3570,6 +3571,8 @@ import_tables:
 間	ke1
 監	ke1
 奸	ke1
+姧	ke1
+姦	ke1
 居	ke1
 鋸	ke1
 改	ke3
@@ -3896,6 +3899,7 @@ import_tables:
 堅	cie1
 艱	cie1
 奸	cie1
+姧	cie1
 姦	cie1
 間	cie1
 監	cie1
@@ -4519,6 +4523,8 @@ import_tables:
 乾	koe1
 干	koe1
 肝	koe1
+奸	koe1
+姧	koe1
 竿	koe1
 甘	koe1
 泔	koe1
@@ -7899,6 +7905,7 @@ import_tables:
 𡎺	tsoq7
 斸	tsoq7
 鎐	tsoq7
+𧮙	tsoq7
 戳	tshoq7
 促	tshoq7
 齪	tshoq7
