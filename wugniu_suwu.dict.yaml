@@ -638,6 +638,7 @@ import_tables:
 黐	tshi1
 取	tshiu3
 娶	tshiu3
+𤆬	tshiu3
 且	tshi3
 砌	tshi5
 趣	tshiu5
@@ -2702,7 +2703,11 @@ import_tables:
 蚪	teu3
 陡	teu3
 鬬	teu5
+鬭	teu5
 鬥	teu5
+鬪	teu5
+闘	teu5
+鬦	teu5
 逗	teu5
 偷	theu1
 㪗	theu3
@@ -6609,6 +6614,7 @@ import_tables:
 渹	hon1
 嗅	hon5
 哄	hon5
+鬨	hon5
 𦶓	hon5
 訌	hon5
 紅	ghon2
@@ -6622,6 +6628,7 @@ import_tables:
 竑	ghon2
 翃	ghon2
 黌	ghon2
+閧	ghon6
 翁	on1
 嗡	on1
 蓊	on1
@@ -7110,6 +7117,8 @@ import_tables:
 䐈	tseq7
 厔	tseq7
 摭	tseq7
+蹠	tseq7
+跖	tseq7
 舴	tseq7
 策	tsheq7
 測	tsheq7
