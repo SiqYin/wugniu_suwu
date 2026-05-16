@@ -1448,6 +1448,7 @@ import_tables:
 駒	ciu1
 痀	ciu1
 龜	ciu1
+亀	ciu1
 歸	ciu1
 舉	ciu3
 櫸	ciu3
@@ -2798,6 +2799,9 @@ import_tables:
 鰍	tshieu1
 湫	tshieu1
 啾	tshieu1
+龝	tshieu1
+䆋	tshieu1
+穐	tshieu1
 抽	tsheu1
 惆	tsheu1
 瘳	tsheu1
@@ -2814,6 +2818,7 @@ import_tables:
 溲	seu1
 收	seu1
 修	sieu1
+脩	sieu1
 羞	sieu1
 饈	sieu1
 奢	seu1
@@ -4151,6 +4156,7 @@ import_tables:
 規	kue1
 歸	kue1
 龜	kue1
+亀	kue1
 瑰	kue1
 圭	kue1
 邽	kue1
@@ -4662,6 +4668,7 @@ import_tables:
 胺	oe1
 銨	oe1
 鮟	oe1
+盦	oe1
 咹	eq7
 揞	oe3
 唵	oe3
@@ -6370,6 +6377,7 @@ import_tables:
 均	ciun1
 鈞	ciun1
 龜	ciun1
+亀	ciun1
 巾	ciun1
 皸	ciun1
 窘	ciun3
@@ -6583,6 +6591,7 @@ import_tables:
 慫	son5
 從	zon2
 叢	zon2
+藂	zon2
 蟲	zon2
 重	zon2
 崇	zon2
