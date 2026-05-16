@@ -7915,6 +7915,7 @@ import_tables:
 𥓍	toq7
 剢	toq7
 哚	toq7
+屬	toq7		#詞綴「-篤toq7」之本字
 托	thoq7
 託	thoq7
 拓	thoq7
@@ -8062,7 +8063,6 @@ import_tables:
 塾	zoq8
 熟	zoq8
 屬	zoq8
-屬	toq7
 辱	zoq8
 褥	zoq8
 縟	zoq8
@@ -8074,6 +8074,7 @@ import_tables:
 㪬	zoq8
 𧮙	zoq8
 射	zoq8
+酢	zoq8
 郭	koq7
 槨	koq7
 廓	koq7
