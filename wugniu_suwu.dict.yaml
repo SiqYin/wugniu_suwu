@@ -72,8 +72,6 @@ import_tables:
 次	tshy5
 廁	tshy5
 痣	tshy5
-上	laon6		#詞「浪/哴laon6」之本字
-丄	laon6
 絲	sy1
 鷥	sy1
 司	sy1
@@ -104,6 +102,7 @@ import_tables:
 駟	sy5
 肆	sy5
 笥	sy5
+𠦌	sy5
 詞	zy2
 祠	zy2
 瓷	zy2
@@ -646,8 +645,8 @@ import_tables:
 趣	tshiu5
 蛓	tshi5
 蚝	tshi5
-覷	tshiu5
-覰	tshiu5
+覷	tshi5
+覰	tshi5
 西	si1
 粞	si1
 硒	si1
@@ -669,6 +668,7 @@ import_tables:
 屣	si3
 躧	si3
 細	si5
+卌	si5
 絮	siu5
 婿	siu5
 齊	zi2
@@ -849,6 +849,8 @@ import_tables:
 浠	shi1
 欷	shi1
 晞	shi1
+烯	shi1
+悕	shi1
 豨	shi1
 郗	shi1
 犧	shi1
@@ -860,12 +862,17 @@ import_tables:
 僖	shi1
 熹	shi1
 譆	shi1
+醯	shi1
 喜	shi3
+囍	shi3
 蟢	shi3
 𨭎	shi3
 禧	shi3
+喺	shi3
+唏	shi3
 戲	shi5
 係	shi5
+餼	shi5
 移	yi2
 眙	yi2
 夷	yi2
@@ -1656,8 +1663,6 @@ import_tables:
 垃	la2
 喇	la2
 旯	la2
-喇	laeq8
-哴	laon6
 賴	la6
 癩	la6
 鬎	la6
@@ -5221,9 +5226,12 @@ import_tables:
 朗	laon6
 浪	laon6
 㫰	laon6
+哴	laon6
 𧻴	laon6
 稂	laon6
 閬	laon6
+上	laon6		#詞「浪/哴laon6」之本字
+丄	laon6
 莊	tsaon1
 樁	tsaon1
 髒	tsaon1
@@ -6686,6 +6694,7 @@ import_tables:
 佣	yon6
 俑	yon6
 邕	ion1
+雝	ion1
 永	ion3
 詠	ion3
 泳	ion3
@@ -6768,6 +6777,7 @@ import_tables:
 鈉	naeq8
 挪	naeq8
 捺	naeq8
+喇	laeq8
 蠟	laeq8
 臘	laeq8
 獵	laeq8
@@ -6777,6 +6787,7 @@ import_tables:
 攔	laeq8
 瘌	laeq8
 鬎	laeq8
+腊	laeq8
 紮	tsaeq7
 扎	tsaeq7
 劄	tsaeq7
@@ -7108,6 +7119,8 @@ import_tables:
 摯	tseq7
 炙	tseq7
 卒	tseq7
+䘚	tseq7
+卆	tseq7
 茁	tseq7
 拙	tseq7
 窋	tseq7
@@ -7192,6 +7205,7 @@ import_tables:
 飾	seq7
 趿	seq7
 奭	seq7
+窣	seq7
 十	zeq8
 什	zeq8
 辻	zeq8
@@ -7489,16 +7503,20 @@ import_tables:
 躞	siq7
 昔	siq7
 惜	siq7
+腊	siq7
 息	siq7
 熄	siq7
 媳	siq7
 螅	siq7
+鎴	siq7
 析	siq7
 晰	siq7
 蜥	siq7
 淅	siq7
 晳	siq7
+皙	siq7
 悉	siq7
+窸	siq7
 蟋	siq7
 錫	siq7
 薛	siq7
@@ -7511,6 +7529,10 @@ import_tables:
 媟	siq7
 屧	siq7
 楔	siq7
+舄	siq7
+舃	siq7
+潟	siq7
+澙	siq7
 截	ziq8
 捷	ziq8
 睫	ziq8
@@ -7624,6 +7646,7 @@ import_tables:
 蠍	shiq7
 脅	shiq7
 吸	shiq7
+翕	shiq7
 歙	shiq7
 鬩	shiq7
 咭	shiq7
@@ -7698,6 +7721,7 @@ import_tables:
 囶	kueq7
 幗	kueq7
 嘓	kueq7
+蟈	kueq7
 馘	kueq7
 骨	kueq7
 嗗	kueq7
@@ -8075,6 +8099,7 @@ import_tables:
 樂	ngoq8
 楽	ngoq8
 瘧	ngoq8
+翯	ngoq8
 霍	hoq7
 藿	hoq7
 壑	hoq7
