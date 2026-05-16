@@ -4271,6 +4271,7 @@ import_tables:
 廽	we2
 茴	we2
 蛔	we2
+𤞑	we2
 徊	we2
 洄	we2
 鮰	we2
@@ -5255,6 +5256,8 @@ import_tables:
 滄	tshaon1
 傖	tshaon1
 艙	tshaon1
+創	tshaon1
+剏	tshaon1
 瘡	tshaon1
 閶	tshaon1
 猖	tshaon1
@@ -5262,7 +5265,11 @@ import_tables:
 闖	tshaon3
 唱	tshaon5
 創	tshaon5
+剙	tshaon5
 愴	tshaon5
+刅	tshaon5
+刱	tshaon5
+剏	tshaon5
 桑	saon1
 喪	saon1
 商	saon1
@@ -6618,6 +6625,7 @@ import_tables:
 鞚	khon5
 倥	khon5
 共	gon6
+𤞒	gon6
 轟	hon1
 烘	hon1
 薨	hon1
