@@ -5893,6 +5893,7 @@ import_tables:
 冰	pin1
 兵	pin1
 并	pin1
+幷	pin1
 鑌	pin1
 邠	pin1
 豳	pin1
@@ -5901,11 +5902,14 @@ import_tables:
 炳	pin3
 抦	pin3
 併	pin3
+倂	pin3
 秉	pin3
 稟	pin3
 柄	pin5
 鈵	pin5
 摒	pin5
+併	pin5
+倂	pin5
 拼	phin1
 姘	phin1
 乒	phin1
@@ -5931,6 +5935,7 @@ import_tables:
 嬪	bin2
 病	bin6
 並	bin6
+竝	bin6
 呯	bin6
 牝	bin6
 臏	bin6
@@ -6522,6 +6527,7 @@ import_tables:
 侗	don2
 銅	don2
 烔	don2
+酮	don2
 佟	don2
 彤	don2
 艟	don2
