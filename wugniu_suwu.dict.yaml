@@ -526,7 +526,9 @@ import_tables:
 棣	di6
 乄	di6
 你	ni1
+儞	ni1
 俚	li1
+渠	li1		#詞「俚li1」之本字
 梨	li2
 犁	li2
 黎	li2
@@ -901,6 +903,8 @@ import_tables:
 遺	yi2
 嵇	yi2
 畦	yi2
+伊	yi2
+渠	yi2		#詞「伊yi2」之本字
 系	yi6
 係	yi6
 繫	yi6
@@ -1485,8 +1489,6 @@ import_tables:
 癯	jiu2
 氍	jiu2
 渠	jiu2
-渠	li1
-渠	yi2
 馗	jiu2
 劬	jiu2
 具	jiu6
