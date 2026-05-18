@@ -778,6 +778,7 @@ import_tables:
 祈	ji2
 祁	ji2
 頎	ji2
+旂	ji2
 蘄	ji2
 芪	ji2
 鰭	ji2
@@ -1393,6 +1394,7 @@ import_tables:
 瑚	wu2
 餬	wu2
 鍸	wu2
+衚	wu2
 壺	wu2
 狐	wu2
 弧	wu2
@@ -3191,6 +3193,7 @@ import_tables:
 番	fe1
 翻	fe1
 幡	fe1
+旛	fe1
 反	fe3
 返	fe3
 販	fe5
@@ -3441,6 +3444,12 @@ import_tables:
 蘸	tse5
 綴	tse5
 綴	tsoe5
+惙	tse5
+惙	tsoe5
+餟	tse5
+餟	tsoe5
+腏	tse5
+腏	tsoe5
 惴	tse5
 惴	tsoe5
 最	tse5
@@ -6536,7 +6545,10 @@ import_tables:
 侗	don2
 銅	don2
 烔	don2
+茼	don2
+峒	don2
 酮	don2
+衕	don2
 佟	don2
 彤	don2
 艟	don2
@@ -6545,6 +6557,8 @@ import_tables:
 桶	don6
 洞	don6
 恫	don6
+峒	don6
+硐	don6
 筒	don6
 胴	don6
 硐	don6
@@ -7029,6 +7043,7 @@ import_tables:
 澤	zaq8
 宅	zaq8
 翟	zaq8
+叒	zaq8
 格	kaq7
 骼	kaq7
 隔	kaq7
@@ -7135,6 +7150,8 @@ import_tables:
 物	veq8
 掇	teq7
 敠	teq7
+剟	teq7
+腏	teq7
 得	teq7
 嘚	teq7
 鍀	teq7
@@ -7215,6 +7232,12 @@ import_tables:
 舴	tseq7
 攥	tseq7
 繓	tseq7
+叕	tseq7
+剟	tseq7
+腏	tseq7
+𩋁	tseq7
+䟾	tseq7
+𧖀	tseq7
 策	tsheq7
 測	tsheq7
 惻	tsheq7
@@ -7244,7 +7267,10 @@ import_tables:
 呎	tsheq7
 輟	tsheq7
 啜	tsheq7
+畷	tsheq7
+醊	tsheq7
 歠	tsheq7
+罬	tsheq7
 焌	tsheq7
 黢	tsheq7
 膬	tsheq7
@@ -8053,6 +8079,8 @@ import_tables:
 涿	tsoq7
 瘃	tsoq7
 斫	tsoq7
+斵	tsoq7
+斲	tsoq7
 竹	tsoq7
 竺	tsoq7
 築	tsoq7
