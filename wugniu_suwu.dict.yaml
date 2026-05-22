@@ -705,6 +705,7 @@ import_tables:
 麂	ci1
 基	ci1
 箕	ci1
+諆	ci1
 期	ci1
 奇	ci1
 畸	ci1
@@ -918,6 +919,7 @@ import_tables:
 義	yi6
 肄	yi6
 異	yi6
+廙	yi6
 懿	yi6
 易	yi6
 矣	yi6
@@ -5828,7 +5830,7 @@ import_tables:
 侁	sen1
 詵	sen1
 燊	sen1
-沈	sen3
+瀋	sen3
 審	sen3
 嬸	sen3
 筍	sen3
@@ -5853,6 +5855,7 @@ import_tables:
 唇	zen2
 脣	zen2
 沉	zen2
+沈	zen2
 忱	zen2
 塵	zen2
 臣	zen2
@@ -5885,6 +5888,8 @@ import_tables:
 仍	zen2
 曾	zen2
 塍	zen2
+諶	zen2
+訦	zen2
 陣	zen6
 朕	zen6
 甚	zen6
@@ -7899,6 +7904,7 @@ import_tables:
 軼	yiq8
 逸	yiq8
 翼	yiq8
+廙	yiq8
 亦	yiq8
 奕	yiq8
 弈	yiq8
