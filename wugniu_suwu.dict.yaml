@@ -3365,12 +3365,13 @@ import_tables:
 難	ne2
 餒	ne3
 乃	ne6
+疓	ne6
 氖	ne6
 內	ne6
 耐	ne6
 奈	ne6
 錼	ne6
-倷	ne6
+倷	ne6		#本字或爲「儂」
 螚	ne6
 雷	le2
 擂	le2
@@ -6237,6 +6238,7 @@ import_tables:
 蕈	zin6
 靜	zin6
 靖	zin6
+婧	zin6
 淨	zin6
 阱	zin6
 穽	zin6
@@ -8427,7 +8429,8 @@ import_tables:
 耳	er1
 鴯	er1
 爾	er1
-爾	n1
+爾	n1		#詞綴「唔/俉n1（如「唔倷」）」之本字
+爾	n6		#詞綴「唔n6（如「唔篤」）」之本字
 邇	er1
 二	er6
 而	er6
@@ -8445,6 +8448,7 @@ import_tables:
 畝	m6
 墓	m6
 唔	n1
+俉	n1
 嗯	n1
 嗯	n2
 嗯	n3
