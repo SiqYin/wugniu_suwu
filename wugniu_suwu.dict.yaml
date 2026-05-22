@@ -19,10 +19,6 @@ import_tables:
 
 ...
 
-々	diq8
-々	zon2
-⺀	diq8
-⺀	zon2
 資	tsy1
 姿	tsy1
 諮	tsy1
@@ -1557,6 +1553,7 @@ import_tables:
 昫	shiu5
 余	yu2
 餘	yu2
+狳	yu2
 俞	yu2
 榆	yu2
 逾	yu2
@@ -2204,6 +2201,8 @@ import_tables:
 纛	dau6
 鐃	nau2
 撓	nau2
+猱	nau2
+𧳨	nau2
 呶	nau2
 腦	nau6
 惱	nau6
@@ -6253,6 +6252,7 @@ import_tables:
 涇	cin1
 莖	cin1
 京	cin1
+猄	cin1
 驚	cin1
 荊	cin1
 旌	cin1
@@ -6686,6 +6686,7 @@ import_tables:
 傯	tson3
 縱	tson5
 粽	tson5
+猔	tson5
 糉	tson5
 蹤	tson5
 中	tson5
@@ -6727,11 +6728,15 @@ import_tables:
 宋	son5
 送	son5
 慫	son5
+⺀	zon2
+々	zon2
 從	zon2
 叢	zon2
 藂	zon2
 蟲	zon2
 重	zon2
+孮	zon2
+婃	zon2
 崇	zon2
 戎	zon2
 毧	zon2
@@ -7597,6 +7602,8 @@ import_tables:
 倜	thiq7
 餮	thiq7
 逖	thiq7
+⺀	diq8
+々	diq8
 疊	diq8
 迭	diq8
 瓞	diq8
