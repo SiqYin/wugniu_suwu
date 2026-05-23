@@ -299,6 +299,7 @@ import_tables:
 椎	zyu2
 篪	zyu2
 踟	zyu2
+穗	zyu6
 氏	zyu6
 舐	zyu6
 示	zyu6
@@ -335,6 +336,7 @@ import_tables:
 䊓	zyu6
 汝	zyu6
 滍	zyu6
+廌	zyu6
 屄	pi1
 蓖	pi1
 毴	pi1
@@ -2195,6 +2197,7 @@ import_tables:
 萄	dau2
 掏	dau2
 濤	dau2
+檮	dau2
 燾	dau2
 洮	dau2
 道	dau6
@@ -2204,6 +2207,7 @@ import_tables:
 蹈	dau6
 悼	dau6
 纛	dau6
+幬	dau6
 鐃	nau2
 撓	nau2
 猱	nau2
@@ -3638,7 +3642,6 @@ import_tables:
 燧	zoe6
 穗	ze6
 穗	zoe6
-穗	zyu6
 誰	ze6
 誰	zoe6
 睡	ze6
@@ -4690,6 +4693,7 @@ import_tables:
 擀	koe3
 敢	koe3
 感	koe3
+鱤	koe3
 㔶	koe3
 幹	koe5
 榦	koe5
@@ -7349,6 +7353,7 @@ import_tables:
 𩋁	tseq7
 䟾	tseq7
 𧖀	tseq7
+戠	tseq7
 策	tsheq7
 測	tsheq7
 惻	tsheq7
