@@ -1989,6 +1989,7 @@ import_tables:
 㪥	tso1
 炸	tso5
 詐	tso5
+咋	tso5
 砟	tso5
 柞	tso5
 蚱	tso5
@@ -4974,6 +4975,7 @@ import_tables:
 朋	ban2
 棚	ban2
 硼	ban2
+倗	ban2
 萠	ban2
 鵬	ban2
 彭	ban2
@@ -5594,6 +5596,7 @@ import_tables:
 畚	pen1
 賁	pen1
 崩	pen1
+堋	pen1
 本	pen3
 苯	pen3
 噴	phen1
@@ -5606,6 +5609,7 @@ import_tables:
 盆	ben2
 湓	ben2
 朋	ben2
+倗	ben2
 鵬	ben2
 棚	ben2
 盟	ben2
@@ -6575,6 +6579,7 @@ import_tables:
 耘	yun2
 妘	yun2
 紜	yun2
+沄	yun2
 芸	yun2
 勻	yun2
 昀	yun2
@@ -7054,9 +7059,11 @@ import_tables:
 鎩	saeq7
 雜	zaeq8
 炸	zaeq8
+咋	zaeq8
 閘	zaeq8
 鍘	zaeq8
 煠	zaeq8
+砸	zaeq8
 𧼰	zaeq8
 𧾓	zaeq8
 夾	kaeq7
