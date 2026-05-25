@@ -613,11 +613,13 @@ import_tables:
 縷	liu6
 淚	li6
 隸	li6
-疽	tsiu1
-齏	tsi1
-苴	tsiu1
 躋	tsi1
+齏	tsi1
+齎	tsi1
+賫	tsi1
+苴	tsiu1
 雎	tsiu1
+疽	tsiu1
 擠	tsi3
 姐	tsi3
 姊	tsi3
@@ -5804,6 +5806,7 @@ import_tables:
 撜	tsen3
 捘	tsen3
 胗	tsen3
+軫	tsen3
 怎	tsen3
 撙	tsen3
 畛	tsen3
@@ -6808,6 +6811,7 @@ import_tables:
 毧	zon2
 茸	zon2
 𩞉	zon2
+賨	zon2
 橦	zon2
 重	zon6
 𨉢	zon6
@@ -8240,6 +8244,7 @@ import_tables:
 咯	loq8
 硌	loq8
 落	loq8
+雒	loq8
 樂	loq8
 楽	loq8
 六	loq8
