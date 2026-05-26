@@ -2749,6 +2749,7 @@ import_tables:
 謀	meu2
 矛	meu2
 牟	meu2
+侔	meu2
 眸	meu2
 鍪	meu2
 畝	meu6
@@ -3279,6 +3280,7 @@ import_tables:
 単	te1
 鄲	te1
 簞	te1
+殫	te1
 耽	te1
 躭	te1
 擔	te1
@@ -4095,10 +4097,11 @@ import_tables:
 搴	chie1
 褰	chie1
 騫	chie1
-蹇	chie3
 愆	chie1
+汧	chie1
 攑	chie1
 䭤	chie3
+蹇	chie3
 縴	chie5
 欠	chie5
 芡	chie5
@@ -4277,6 +4280,8 @@ import_tables:
 圭	kue1
 邽	kue1
 珪	kue1
+璝	kue1
+𤪿	kue1
 鮭	kue1
 硅	kue1
 閨	kue1
@@ -5951,6 +5956,7 @@ import_tables:
 訦	zen2
 陣	zen6
 朕	zen6
+眹	zen6
 甚	zen6
 㰮	zen6
 慎	zen6
@@ -6536,6 +6542,7 @@ import_tables:
 坤	khuen1
 昆	khuen1
 琨	khuen1
+瑻	khuen1
 鯤	khuen1
 崑	khuen1
 鵾	khuen1
@@ -6561,6 +6568,7 @@ import_tables:
 溷	wen6
 䐊	wen6
 溫	uen1
+瑥	uen1
 瘟	uen1
 穩	uen3
 搵	uen5
@@ -7372,6 +7380,7 @@ import_tables:
 浙	tseq7
 這	tseq7
 質	tseq7
+瓆	tseq7
 鑕	tseq7
 郅	tseq7
 蛭	tseq7
