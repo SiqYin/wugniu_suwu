@@ -5945,10 +5945,13 @@ import_tables:
 生	sen1
 笙	sen1
 牲	sen1
+鉎	sen1
+泩	sen1
 甥	sen1
 聲	sen1
 升	sen1
 昇	sen1
+陞	sen1
 娠	sen1
 駪	sen1
 侁	sen1
@@ -5971,6 +5974,7 @@ import_tables:
 聖	sen5
 抻	sen5
 巽	sen5
+貹	sen5
 岑	zen2
 陳	zen2
 辰	zen2
@@ -6334,6 +6338,7 @@ import_tables:
 星	sin1
 猩	sin1
 腥	sin1
+胜	sin1
 惺	sin1
 瑆	sin1
 煋	sin1
@@ -6349,6 +6354,7 @@ import_tables:
 迅	sin5
 姓	sin5
 性	sin5
+貹	sin5
 詢	sin5
 濬	sin5
 囟	sin5
@@ -7659,6 +7665,7 @@ import_tables:
 屼	ngeq8
 扤	ngeq8
 紇	ngeq8
+齕	ngeq8
 黑	heq7
 𨭆	heq7
 嘿	heq7
