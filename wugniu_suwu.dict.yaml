@@ -3974,9 +3974,12 @@ import_tables:
 澱	die6
 淀	die6
 靛	die6
+琔	die6
+𤩱	die6
 奠	die6
 跈	die6
 㼭	die6
+簟	die6
 聯	lie2
 連	lie2
 蓮	lie2
@@ -5775,11 +5778,14 @@ import_tables:
 惇	ten1
 蹲	ten1
 燈	ten1
+璒	ten1
 登	ten1
 蹬	ten1
 膯	ten1
+艠	ten1
 嬁	ten1
 噔	ten1
+簦	ten1
 躉	ten3
 盹	ten3
 等	ten3
@@ -5790,6 +5796,7 @@ import_tables:
 瞪	ten5
 鐙	ten5
 磴	ten5
+墱	ten5
 嶝	ten5
 扽	ten5
 扥	ten5
@@ -5865,6 +5872,7 @@ import_tables:
 尊	tsen1
 遵	tsen1
 樽	tsen1
+墫	tsen1
 噂	tsen1
 肫	tsen1
 諄	tsen1
@@ -5900,6 +5908,7 @@ import_tables:
 軫	tsen3
 怎	tsen3
 撙	tsen3
+譐	tsen3
 畛	tsen3
 鎮	tsen5
 診	tsen5
@@ -6073,6 +6082,7 @@ import_tables:
 䫈	zen6
 酖	zen6
 鱒	zen6
+僔	zen6
 根	ken1
 跟	ken1
 更	ken1
@@ -6320,6 +6330,7 @@ import_tables:
 晶	tsin1
 腈	tsin1
 旌	tsin1
+墫	tsin1
 盡	tsin3
 儘	tsin3
 井	tsin3
@@ -7869,6 +7880,7 @@ import_tables:
 𢫫	liq8
 𢯰	liq8
 埒	liq8
+埓	liq8
 鬣	liq8
 趔	liq8
 接	tsiq7
@@ -8062,6 +8074,11 @@ import_tables:
 櫱	gniq8
 蠥	gniq8
 孼	gniq8
+艗	gniq8
+鶂	gniq8
+鷁	gniq8
+虉	gniq8
+𠩫	gniq8
 歇	shiq7
 蠍	shiq7
 蠍	shiq7
