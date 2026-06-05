@@ -27,7 +27,7 @@ switches:
   - name: ascii_punct
     states: [句讀, 符號]
   - options: [ noop, varients_wy, variants_hk, trad_tw, varients_jp, simplification, varients_sy]
-    states: [ 漢字, 吳語漢字, 香港繁體, 臺灣正體, 日本新字体, 大陆简体, 雪螢傳統漢字]
+    states: [ 漢字, 吳文漢字, 香港繁體, 臺灣繁體, 日本新字体, 大陆简体, 雪螢漢字]
     reset: 1 #填0到5以選擇默認輸出漢字
 
 engine:
@@ -169,7 +169,7 @@ wy_reverse_lookup:
   comment_format:
     __include: translator/comment_format 
 
-# 吳越語漢字    
+# 吳文漢字（照吳文用字標準專門優化搭適配脱个大陸繁體標準漢字）
 varients_wy:
   option_name: varients_wy
   opencc_config: s2wy.json
@@ -177,7 +177,7 @@ varients_wy:
 variants_hk:
   option_name: variants_hk
   opencc_config: t2hk.json
-# 臺灣正體
+# 臺灣繁體
 trad_tw:
   option_name: trad_tw
   opencc_config: t2tw.json
@@ -185,7 +185,7 @@ trad_tw:
 varients_jp:
   option_name: varients_jp
   opencc_config: t2jp.json
-
+# 雪螢漢字（雪螢照自家个偏好設定个吳文漢字標準，也經過仔吳文優化搭適配哉）
 varients_sy:
   option_name: varients_sy
   opencc_config: t2sy.json
