@@ -73,10 +73,10 @@ speller:
     - xform/\d//     # 聲調去脱
 
     # 兼容吳語協會式拼音
-    - derive/q/h/
-    - derive/gni(?=[nqh]|\d|\b)/nyi/
-    - derive/gni(?=[aoue])/ny/
-    - derive/er/r/
+    #- derive/q/h/
+    #- derive/gni(?=[nqh]|\d|\b)/nyi/
+    #- derive/gni(?=[aoue])/ny/
+    #- derive/er/r/
 
     # 尖團弗分
     - derive/ts(h?)i/c$1i/
@@ -113,15 +113,15 @@ speller:
     # uen韻簡拼
     - derive/uen/un/
     # 容差 au => ao
-    - derive/au/ao/
+    #- derive/au/ao/
     # c組聲母後自動加i
     - derive/^(c|j|gn|[csz]h)i(?=[aoue])/$1/
     # 容差 介音、主元音順序相調
     - derive/^(.+)([iu])([aeou])([euonqh])$/$1$3$2$4/
     # 容差 oe => eo
-    - derive/oe/eo/
+    #- derive/oe/eo/
     # 容差 ao => oa
-    - derive/ao/oa/
+    #- derive/ao/oa/
 
 # 主翻譯器 吳拼
 translator:
