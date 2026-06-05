@@ -933,9 +933,21 @@ import_tables:
 雟	yi2
 嶲	yi2
 攜	yi2
+觿	yi2
+蠵	yi2
+酅	yi2
+鑴	yi2
+讗	yi2
+纗	yi2
+𢥘	yi2
+𪈥	yi2
+㔒	yi2
+𡰢	yi2
+驨	yi2
 遺	yi2
 嵇	yi2
 畦	yi2
+眭	yi2
 伊	yi2
 傒	yi2
 渠	yi2		#詞「伊yi2」之本字
@@ -1371,6 +1383,7 @@ import_tables:
 苛	khu1
 軻	khu1
 坷	khu1
+牁	khu1
 疴	khu1
 屙	khu1
 挎	khu1
@@ -2938,6 +2951,7 @@ import_tables:
 收	seu1
 修	sieu1
 脩	sieu1
+滫	sieu1
 羞	sieu1
 饈	sieu1
 奢	seu1
@@ -3474,6 +3488,7 @@ import_tables:
 徠	le2
 誺	le2
 崍	le2
+庲	le2
 藍	le2
 籃	le2
 襤	le2
@@ -3646,8 +3661,12 @@ import_tables:
 綏	soe5
 芟	se1
 噻	se1
+眭	se1
 散	se3
 髓	se3
+䭉	se3
+𣿂	se3
+瀡	se3
 糝	se3
 饊	se3
 水	se3
@@ -6884,6 +6903,7 @@ import_tables:
 衷	tson1
 終	tson1
 騣	tson1
+牂	tson1
 總	tson3
 種	tson3
 腫	tson3
