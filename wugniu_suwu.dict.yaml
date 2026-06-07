@@ -454,6 +454,7 @@ import_tables:
 菲	fi1
 啡	fi1
 緋	fi1
+琲	fi1
 霏	fi1
 妃	fi1
 匪	fi3
@@ -741,6 +742,7 @@ import_tables:
 姬	ci1
 吤	cia1
 玠	cia1
+珈	cia1
 幾	ci3
 蟣	ci3
 麂	ci3
@@ -1796,6 +1798,7 @@ import_tables:
 加	ka1
 枷	ka1
 咖	ka1
+珈	ka1
 袈	ka1
 痂	ka1
 家	ka1
@@ -1826,6 +1829,7 @@ import_tables:
 揩	kha1
 咖	kha1
 咔	kha1
+佧	kha1
 卡	kha3
 鉲	kha3
 佧	kha3
@@ -1965,13 +1969,17 @@ import_tables:
 卦	kua5
 褂	kua5
 絓	kua5
+夬	kua5
 誇	khua1
 咵	khua1
+䓙	khua1
+㔞	khua1
 蒯	khua5
 快	khua5
 歪	hua1
 竵	hua1
-花	hua1
+咼	hua1
+喎	hua1
 孬	hua5
 懷	wa2
 瀤	wa2
@@ -2347,6 +2355,7 @@ import_tables:
 抄	tshau1
 鈔	tshau1
 超	tshau1
+䫸	tshau1
 草	tshau3
 艹	tshau3
 吵	tshau3
@@ -2390,6 +2399,7 @@ import_tables:
 蟯	zau2
 䐬	zau2
 晁	zau2
+䄻	zau2
 召	zau6
 紹	zau6
 邵	zau6
@@ -2484,6 +2494,8 @@ import_tables:
 薅	hau1
 茠	hau1
 虓	hau1
+灱	hau1
+䬘	hau1
 好	hau3
 孝	hau5
 耗	hau5
@@ -2529,6 +2541,7 @@ import_tables:
 猋	piau1
 飆	piau1
 飈	piau1
+颩	piau1
 淲	piau1
 鑣	piau1
 表	piau3
@@ -2591,6 +2604,7 @@ import_tables:
 挑	thiau1
 佻	thiau1
 祧	thiau1
+𫋺	thiau1
 跳	thiau5
 眺	thiau5
 糶	thiau5
@@ -3267,6 +3281,7 @@ import_tables:
 排	be2
 背	be6
 痱	be6
+琲	be6
 焙	be6
 倍	be6
 蓓	be6
@@ -4430,6 +4445,7 @@ import_tables:
 瞡	kue5
 矔	kue5
 劌	kue5
+夬	kue5
 虧	khue1
 盔	khue1
 恢	khue1
@@ -4440,6 +4456,10 @@ import_tables:
 㩻	khue1
 蝰	khue1
 悝	khue1
+䓙	khue1
+㔞	khue1
+㨤	khue1
+𦹬	khue1
 傀	khue3
 磈	khue3
 巋	khue3
@@ -4596,6 +4616,7 @@ import_tables:
 輓	ue3
 患	ue3
 宦	ue3
+䦱	ue3
 會	ue5
 薈	ue5
 彎	ue5
@@ -5807,6 +5828,7 @@ import_tables:
 芬	ven2
 棻	ven2
 棼	ven2
+鼢	ven2
 焚	ven2
 文	ven2
 墳	ven2
@@ -6250,6 +6272,7 @@ import_tables:
 病	bin6
 並	bin6
 竝	bin6
+𠀤	bin6
 呯	bin6
 牝	bin6
 臏	bin6
@@ -8525,6 +8548,7 @@ import_tables:
 蹙	tshoq7
 蹴	tshoq7
 踔	tshoq7
+趠	tshoq7
 觸	tshoq7
 畜	tshoq7
 搐	tshoq7
@@ -8651,6 +8675,7 @@ import_tables:
 𢝇	hoq7
 齶	hoq7
 謞	hoq7
+熇	hoq7
 攉	hoq7
 劐	hoq7
 鑊	ghoq8
