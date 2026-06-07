@@ -1405,6 +1405,7 @@ import_tables:
 袴	khu5
 咕	gu6
 我	ngu1
+蜈	ngu2
 梧	ngu2
 鵝	ngu2
 蛾	ngu2
@@ -1471,8 +1472,6 @@ import_tables:
 龢	wu2
 河	wu2
 何	wu2
-何	gha2
-何	ha1
 荷	wu2
 禾	wu2
 猢	wu2
@@ -1771,7 +1770,6 @@ import_tables:
 柘	tsa5
 膪	tsa5
 差	tsha1
-嗆	tshian1
 釵	tsha1
 扯	tsha1
 扯	tsha3
@@ -1851,9 +1849,11 @@ import_tables:
 疨	ha1
 煆	ha1
 颬	ha1
+何	ha1
 蟹	ha3
 澥	ha3
 嗨	he3
+何	gha2
 鞋	gha2
 也	gha2
 挨	a1
@@ -6922,6 +6922,7 @@ import_tables:
 終	tson1
 騣	tson1
 牂	tson1
+樅	tson1
 總	tson3
 種	tson3
 腫	tson3
@@ -6966,6 +6967,7 @@ import_tables:
 崧	son1
 菘	son1
 凇	son1
+蜙	son1
 嵩	son1
 舂	son1
 摏	son1
