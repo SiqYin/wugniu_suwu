@@ -515,6 +515,8 @@ import_tables:
 梯	thi1
 銻	thi1
 綈	thi1
+鷈	thi1
+鷉	thi1
 體	thi3
 剃	thi5
 涕	thi5
@@ -765,6 +767,7 @@ import_tables:
 蹊	chi1
 豀	chi1
 谿	chi1
+鸂	chi1
 㩻	chi1
 起	chi3
 啟	chi3
@@ -2230,6 +2233,7 @@ import_tables:
 矛	mau2
 茅	mau2
 蝥	mau2
+鶜	mau2
 牡	mau6
 冒	mau6
 帽	mau6
@@ -2413,6 +2417,7 @@ import_tables:
 跤	kau1
 鉸	kau1
 鮫	kau1
+鵁	kau1
 繳	kau1
 皋	kau1
 睾	kau1
@@ -2691,6 +2696,7 @@ import_tables:
 跤	ciau1
 茭	ciau1
 鮫	ciau1
+鵁	ciau1
 狡	ciau3
 餃	ciau3
 鉸	ciau3
@@ -4567,6 +4573,7 @@ import_tables:
 幻	we6
 頠	we6
 蜼	we6
+蟪	we6
 威	ue1
 葳	ue1
 崴	ue1
@@ -5434,6 +5441,9 @@ import_tables:
 魍	maon6
 罔	maon6
 惘	maon6
+𪁪	maon6
+𪁒	maon6
+𨿙	maon6
 方	faon1
 坊	faon1
 妨	faon1
@@ -6379,6 +6389,7 @@ import_tables:
 菁	tsin1
 晶	tsin1
 腈	tsin1
+鶄	tsin1
 旌	tsin1
 墫	tsin1
 盡	tsin3
@@ -6846,6 +6857,7 @@ import_tables:
 懂	ton3
 凍	ton5
 棟	ton5
+湩	ton5
 通	thon1
 統	thon3
 捅	thon3
