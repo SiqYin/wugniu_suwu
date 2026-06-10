@@ -2291,6 +2291,9 @@ import_tables:
 檮	dau2
 燾	dau2
 洮	dau2
+鞉	dau2
+鼗	dau2
+鞀	dau2
 道	dau6
 盜	dau6
 導	dau6
@@ -3025,6 +3028,7 @@ import_tables:
 柔	zeu2
 揉	zeu2
 蹂	zeu2
+鞣	zeu2
 酋	zieu2
 遒	zieu2
 揂	zieu2
@@ -3327,6 +3331,7 @@ import_tables:
 昧	me6
 寐	me6
 魅	me6
+韎	me6
 萬	me6
 卐	me6
 卍	me6
@@ -7215,6 +7220,7 @@ import_tables:
 鎝	taeq7
 𨅞	taeq7
 瘩	taeq7
+䶀	taeq7
 妲	taeq7
 炟	taeq7
 靼	taeq7
@@ -7331,6 +7337,7 @@ import_tables:
 曱	khaeq7
 咔	khaeq7
 咭	khaeq7
+䶀	khaeq7
 軋	gaeq8
 齾	ngaeq8
 瞎	haeq7
@@ -7770,6 +7777,8 @@ import_tables:
 合	keq7
 蛤	keq7
 鉿	keq7
+鞈	keq7
+韐	keq7
 鴿	keq7
 頜	keq7
 郃	keq7
