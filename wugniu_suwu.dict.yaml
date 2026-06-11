@@ -1818,6 +1818,7 @@ import_tables:
 假	ka3
 檞	ka3
 假	ka5
+𢱈	ka5
 界	ka5
 嫁	ka5
 稼	ka5
@@ -1855,6 +1856,7 @@ import_tables:
 牙	nga2
 伢	nga2
 蚜	nga2
+㧎	nga2
 衙	nga2
 捱	nga2
 外	nga6
@@ -1864,6 +1866,7 @@ import_tables:
 煆	ha1
 颬	ha1
 何	ha1
+夯	ha1		#動詞「ha1（打）」之雪螢方言正字
 蟹	ha3
 澥	ha3
 嗨	he3
@@ -1922,6 +1925,7 @@ import_tables:
 芥	cia5
 界	cia5
 假	cia5
+𢱈	cia5
 屆	cia5
 戒	cia5
 誡	cia5
@@ -4698,6 +4702,7 @@ import_tables:
 籪	toe5
 碫	toe5
 鍛	toe5
+𢯫	toe5
 貪	thoe1
 湍	thoe1
 疃	thoe3
@@ -5277,7 +5282,6 @@ import_tables:
 硬	ngan6
 亨	han1
 夯	han1
-夯	ha1
 哼	han1
 行	ghan2
 桁	ghan2
