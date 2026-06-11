@@ -1816,6 +1816,7 @@ import_tables:
 跏	ka1
 旮	ka1
 假	ka3
+檞	ka3
 假	ka5
 界	ka5
 嫁	ka5
@@ -1910,6 +1911,7 @@ import_tables:
 賈	cia3
 假	cia3
 解	cia3
+檞	cia3
 架	cia5
 駕	cia5
 嫁	cia5
@@ -1943,6 +1945,7 @@ import_tables:
 野	ya6
 冶	ya6
 夜	ya6
+瀣	ya6
 薤	ya6
 呀	ia1
 鴉	ia1
@@ -5703,6 +5706,7 @@ import_tables:
 頏	ghaon2
 吭	ghaon2
 魧	ghaon2
+沆	ghaon6
 巷	ghaon6
 項	ghaon6
 肮	aon1
@@ -8055,7 +8059,9 @@ import_tables:
 磧	tshiq7
 膝	siq7
 屑	siq7
+榍	siq7
 泄	siq7
+紲	siq7
 褻	siq7
 燮	siq7
 躞	siq7
@@ -8085,6 +8091,8 @@ import_tables:
 洩	siq7
 絏	siq7
 媟	siq7
+渫	siq7
+緤	siq7
 屧	siq7
 楔	siq7
 舄	siq7
