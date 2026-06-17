@@ -14,9 +14,11 @@ schema:
     基於蘇州吳語注音輸入方案吳語學堂版
     https://www.wugniu.com/
     https://github.com/NGLI/rime-wugniu_soutseu/
+    普通閒話反查末撳Q，筆畫反查末撳X
   dependencies:
     - luna_pinyin
     - stroke
+  icon: wugniuji.ico
 
 switches:
   - name: ascii_mode
@@ -69,6 +71,13 @@ speller:
   alphabet: abcdefghijklmnopqrstuvwxyz
   delimiter: " '"
   algebra:
+    # xform  - 改寫（調脱，弗共存）
+    # derive  - 衍生（共存，單向模糊音）
+    # abbrev  - 簡拼（出字優先級比前兩組低）
+    # fuzz    - 略拼（只用在上組詞，弗出單字）
+    # xlit    - 變換（適合大量个一對一變換）
+    # erase   - 刪脱
+    
     - xform/^([bcdfghjklpqstvwxyz])$/$1_/
     - xform/\d//     # 聲調去脱
 
