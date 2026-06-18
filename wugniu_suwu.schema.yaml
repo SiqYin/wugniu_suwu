@@ -29,8 +29,8 @@ switches:
   - name: ascii_punct
     states: [句讀, 符號]
   - options: [ noop, varients_wy, variants_hk, trad_tw, varients_jp, simplification, varients_sy]
-    states: [ 漢字, 吳文漢字, 香港繁體, 臺灣繁體, 日本新字体, 大陆简体, 雪螢漢字]
-    reset: 1 #填0到5以選擇默認輸出漢字
+    states: [ 漢字, 吳語漢字, 香港繁體, 臺灣繁體, 日本新字体, 大陆简体, 雪螢漢字]
+    reset: 1 #填0到6以選擇默認輸出漢字
 
 engine:
   processors:
