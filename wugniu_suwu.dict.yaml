@@ -198,6 +198,7 @@ import_tables:
 致	tsyu5
 緻	tsyu5
 置	tsyu5
+寘	tsyu5
 質	tsyu5
 炙	tsyu5
 摯	tsyu5
@@ -1629,6 +1630,7 @@ import_tables:
 滸	shiu3
 詡	shiu3
 栩	shiu3
+珝	shiu3
 煦	shiu3
 酗	shiu5
 昫	shiu5
@@ -2365,6 +2367,7 @@ import_tables:
 灶	tsau5
 竈	tsau5
 照	tsau5
+𤋜	tsau5
 曌	tsau5
 罩	tsau5
 詔	tsau5
@@ -3314,6 +3317,7 @@ import_tables:
 被	be6
 備	be6
 憊	be6
+鞴	be6
 悖	be6
 辦	be6
 稗	be6
@@ -3392,6 +3396,7 @@ import_tables:
 樊	ve2
 蕃	ve2
 藩	ve2
+鐇	ve2
 颿	ve2
 棥	ve2
 袢	ve2
@@ -4784,6 +4789,13 @@ import_tables:
 鱣	tsoe1
 顓	tsoe1
 躦	tsoe1
+㮵	tsoe1
+栴	tsoe1
+𩜾	tsoe1
+𩔣	tsoe1
+旜	tsoe1
+鸇	tsoe1
+旃	tsoe1
 展	tsoe3
 輾	tsoe3
 轉	tsoe3
@@ -8507,6 +8519,7 @@ import_tables:
 伏	voq8
 茯	voq8
 袱	voq8
+絥	voq8
 縛	voq8
 復	voq8
 服	voq8
@@ -8583,6 +8596,7 @@ import_tables:
 箓	loq8
 彔	loq8
 氯	loq8
+逯	loq8
 甪	loq8
 鹿	loq8
 漉	loq8

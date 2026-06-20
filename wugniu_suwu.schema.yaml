@@ -29,7 +29,7 @@ switches:
   - name: ascii_punct
     states: [句讀, 符號]
   - options: [ noop, varients_wy, variants_hk, trad_tw, varients_jp, simplification, varients_sy]
-    states: [ 漢字, 吳語漢字, 香港繁體, 臺灣繁體, 日本新字体, 大陆简体, 雪螢漢字]
+    states: [ 漢字, 吳語漢字, 香港漢體, 臺灣正體, 日本新字体, 大陆汉体, 雪螢漢字] #吳語漢字是照吳文用字標準做脱專門優化搭適配个大陸繁體標準漢字，建議使用
     reset: 1 #填0到6以選擇默認輸出漢字
 
 engine:
@@ -178,7 +178,7 @@ wy_reverse_lookup:
   comment_format:
     __include: translator/comment_format 
 
-# 吳文漢字（照吳文用字標準專門優化搭適配脱个大陸繁體標準漢字）
+# 吳語漢字（照吳文用字標準做脱專門優化搭適配个大陸繁體標準漢字）
 varients_wy:
   option_name: varients_wy
   opencc_config: s2wy.json
