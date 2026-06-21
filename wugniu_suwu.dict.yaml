@@ -2645,7 +2645,6 @@ import_tables:
 齠	diau2
 調	diau6
 掉	diau6
-掉	deq8
 窕	diau6
 㸠	diau6
 撈	liau1
@@ -7625,6 +7624,8 @@ import_tables:
 忑	theq7
 疊	deq8
 特	deq8
+掉	deq8		#詞「特deq8（丟失）」之雪螢正字
+𭉪	deq8		#詞「特deq8（丟失）」之雪螢正字
 突	deq8
 凸	deq8
 遝	deq8
