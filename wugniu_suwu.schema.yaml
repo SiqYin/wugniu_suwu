@@ -94,7 +94,7 @@ speller:
     - derive/uoe/oe/
     - derive/woe/ghoe/
     # 求拳弗分
-    - derive/(?<=[yi])eu/oe/
+    #- derive/(?<=[yi])eu/oe/
     # 打黨弗分
     - derive/aon/an/
     - derive/an/aon/
