@@ -189,8 +189,8 @@ import_tables:
 嘴	tsyu3
 丶	tsyu3
 軹	tsyu3
-嘴	tse3
-嘴	tsoe3
+嘴	tsy3		#上海又音
+嘴	tsoe3		#上海又音
 咫	tsyu3
 志	tsyu5
 誌	tsyu5
@@ -808,6 +808,8 @@ import_tables:
 蜞	ji2
 祺	ji2
 琪	ji2
+𡸷	ji2
+蜝	ji2
 奇	ji2
 騎	ji2
 崎	ji2
@@ -3015,6 +3017,8 @@ import_tables:
 龝	tshieu1
 䆋	tshieu1
 穐	tshieu1
+鞧	tshieu1
+緧	tshieu1
 抽	tsheu1
 惆	tsheu1
 瘳	tsheu1
@@ -3636,13 +3640,13 @@ import_tables:
 蕌	le6
 藟	le6
 追	tse1
-追	tsoe1
+追	tsoe1		#上海又音
 錐	tse1
-錐	tsoe1
+錐	tsoe1		#上海又音
 椎	tse1
 椎	ze2
-椎	tsoe1
-椎	zoe2
+椎	tsoe1		#上海又音
+椎	zoe2		#上海又音
 槜	tse1
 災	tse1
 栽	tse1
@@ -3661,39 +3665,39 @@ import_tables:
 琖	tse3
 盞	tse3
 醉	tse5
-醉	tsoe5
+醉	tsoe5		#上海又音
 淬	tse5
 贅	tse5
-贅	tsoe5
+贅	tsoe5		#上海又音
 贊	tse5
 讚	tse5
 瓉	tse5
 瓚	tse5
 蘸	tse5
 綴	tse5
-綴	tsoe5
+綴	tsoe5		#上海又音
 惙	tse5
-惙	tsoe5
+惙	tsoe5		#上海又音
 餟	tse5
-餟	tsoe5
+餟	tsoe5		#上海又音
 腏	tse5
-腏	tsoe5
+腏	tsoe5		#上海又音
 惴	tse5
-惴	tsoe5
+惴	tsoe5		#上海又音
 最	tse5
-最	tsoe5
+最	tsoe5		#上海又音
 崔	tshe1
-崔	tshoe1
+崔	tshoe1		#上海又音
 催	tshe1
-催	tshoe1
+催	tshoe1		#上海又音
 摧	tshe1
-摧	tshoe1
+摧	tshoe1		#上海又音
 炊	tshe1
-炊	tshoe1
+炊	tshoe1		#上海又音
 吹	tshe1
-吹	tshoe1
+吹	tshoe1		#上海又音
 猜	tshe1
-猜	tshoe1
+猜	tshoe1		#上海又音
 攙	tshe1
 縗	tshe1
 采	tshe3
@@ -3733,7 +3737,7 @@ import_tables:
 毳	tshe5
 孱	tshe5
 雖	se1
-雖	soe1
+雖	soe1		#上海又音
 綏	se1
 荽	se1
 鰓	se1
@@ -3758,7 +3762,7 @@ import_tables:
 潸	se1
 彡	se1
 毿	se1
-綏	soe5
+綏	soe5		#上海又音
 芟	se1
 噻	se1
 眭	se1
@@ -3772,41 +3776,41 @@ import_tables:
 水	se3
 碎	se5
 邃	se5
-邃	soe5
+邃	soe5		#上海又音
 歲	se5
-歲	soe5
+歲	soe5		#上海又音
 稅	se5
-稅	soe5
+稅	soe5		#上海又音
 說	se5
-說	soe5
+說	soe5		#上海又音
 銳	se5
-銳	soe5
+銳	soe5		#上海又音
 祟	se5
-祟	soe5
+祟	soe5		#上海又音
 塞	se5
 賽	se5
 帥	se5
 率	se5
-率	soe5
+率	soe5		#上海又音
 散	se5
 傘	se5
 帥	se5
 舍	se5
 釤	se5
 隨	ze2
-隨	zoe2
+隨	zoe2		#上海又音
 隋	ze2
-隋	zoe2
+隋	zoe2		#上海又音
 遂	ze2
-遂	zoe2
+遂	zoe2		#上海又音
 垂	ze2
-垂	zoe2
+垂	zoe2		#上海又音
 錘	ze2
-錘	zoe2
+錘	zoe2		#上海又音
 陲	ze2
-陲	zoe2
+陲	zoe2		#上海又音
 捶	ze2
-捶	zoe2
+捶	zoe2		#上海又音
 才	ze2
 纔	ze2
 豺	ze2
@@ -3829,36 +3833,36 @@ import_tables:
 慚	ze2
 全	ze2		#詞「儕/才ze2」之本字
 遂	ze6
-遂	zoe6
+遂	zoe6		#上海又音
 焠	ze6
 隧	ze6
-隧	zoe6
+隧	zoe6		#上海又音
 燧	ze6
-燧	zoe6
+燧	zoe6		#上海又音
 穗	ze6
-穗	zoe6
+穗	zoe6		#上海又音
 誰	ze6
-誰	zoe6
+誰	zoe6		#上海又音
 睡	ze6
-睡	zoe6
+睡	zoe6		#上海又音
 粹	ze6
 萃	ze6
 瘁	ze6
 悴	ze6
-悴	zoe6
-粹	zoe6
+悴	zoe6		#上海又音
+粹	zoe6		#上海又音
 罪	ze6
-罪	zoe6
+罪	zoe6		#上海又音
 墜	ze6
-墜	zoe6
+墜	zoe6		#上海又音
 銳	ze6
-銳	zoe6
+銳	zoe6		#上海又音
 瑞	ze6
-瑞	zoe6
+瑞	zoe6		#上海又音
 蕊	ze6
-蕊	zoe6
+蕊	zoe6		#上海又音
 芮	ze6
-芮	zoe6
+芮	zoe6		#上海又音
 睿	ze6
 叡	ze6
 在	ze6
@@ -3911,6 +3915,7 @@ import_tables:
 鉛	khe1
 開	khe1
 鐦	khe1
+堪	khe1		#上海又音
 凱	khe3
 檻	khe3
 艦	khe3
@@ -3925,6 +3930,7 @@ import_tables:
 刊	khe5
 刋	khe5
 栞	khe5
+堪	khe5		#上海又音
 㨟	ge2
 頦	ge2
 	ge6
@@ -4864,13 +4870,13 @@ import_tables:
 喘	tshoe3
 舛	tshoe3
 纂	tshoe3
-淬	tshoe5
-焠	tshoe5
-粹	tshoe5
-翠	tshoe5
-萃	tshoe5
-瘁	tshoe5
-脆	tshoe5
+淬	tshoe5		#上海又音
+焠	tshoe5		#上海又音
+粹	tshoe5		#上海又音
+翠	tshoe5		#上海又音
+萃	tshoe5		#上海又音
+瘁	tshoe5		#上海又音
+脆	tshoe5		#上海又音
 串	tshoe5
 竄	tshoe5
 篡	tshoe5
@@ -4888,7 +4894,7 @@ import_tables:
 羶	soe1
 狻	soe1
 䝜	soe1
-水	soe3
+水	soe3		#上海又音
 扇	soe3
 陝	soe3
 閃	soe3
@@ -4975,6 +4981,7 @@ import_tables:
 旰	koe5
 看	khoe1
 堪	khoe1
+嵁	khoe1
 戡	khoe1
 砍	khoe3
 坎	khoe3
@@ -5172,6 +5179,7 @@ import_tables:
 觀	kuoe5
 冠	kuoe5
 盥	kuoe5
+泴	kuoe5
 寬	khuoe1
 髖	khuoe1
 款	khuoe3
@@ -5179,6 +5187,7 @@ import_tables:
 獾	huoe1
 驩	huoe1
 貛	huoe1
+懽	huoe1
 瘓	huoe3
 奐	huoe5
 煥	huoe5
