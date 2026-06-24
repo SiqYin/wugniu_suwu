@@ -973,7 +973,7 @@ import_tables:
 嵇	yi2
 畦	yi2
 眭	yi2
-伊	yi2
+伊	yi2		#本音i1，箇搭爲詞「yi2（第三人稱單數）」之正字，實爲渠
 傒	yi2
 渠	yi2		#詞「伊yi2」之本字
 匜	yi2
@@ -995,6 +995,7 @@ import_tables:
 以	i1
 已	i1
 伊	i1
+蛜	i1
 噫	i1
 犄	i1
 禕	i1
@@ -2418,6 +2419,7 @@ import_tables:
 捎	sau1
 䈰	sau1
 睄	sau1
+蛸	sau1
 掃	sau3
 嫂	sau3
 少	sau3
@@ -2716,6 +2718,7 @@ import_tables:
 蕭	siau1
 嘯	siau1
 瀟	siau1
+蠨	siau1
 肖	siau1
 消	siau1
 銷	siau1
@@ -2725,6 +2728,7 @@ import_tables:
 霄	siau1
 鞘	siau1
 魈	siau1
+蛸	siau1
 捎	siau1
 綃	siau1
 筱	siau1
@@ -3218,6 +3222,7 @@ import_tables:
 鈾	yeu2
 郵	yeu2
 蚰	yeu2
+鮋	yeu2
 遊	yeu2
 游	yeu2
 蝣	yeu2
@@ -3474,6 +3479,7 @@ import_tables:
 台	the1
 苔	the1
 胎	the1
+鮐	the1
 擹	the1
 痑	the1
 㷟	the1
@@ -3725,6 +3731,7 @@ import_tables:
 嘬	tshe5
 𪙦	tshe5
 毳	tshe5
+孱	tshe5
 雖	se1
 雖	soe1
 綏	se1
@@ -4043,6 +4050,7 @@ import_tables:
 沔	mie6
 麪	mie6
 免	mie6
+鮸	mie6
 娩	mie6
 冕	mie6
 澠	mie6
@@ -4565,6 +4573,7 @@ import_tables:
 揮	hue1
 暉	hue1
 琿	hue1
+楎	hue1
 翬	hue1
 麾	hue1
 隳	hue1
@@ -4664,6 +4673,7 @@ import_tables:
 蟪	we6
 軎	we6
 威	ue1
+蝛	ue1
 葳	ue1
 崴	ue1
 喂	ue1
@@ -6585,6 +6595,7 @@ import_tables:
 秦	zin2
 嗪	zin2
 尋	zin2
+蟳	zin2
 潯	zin2
 蕁	zin2
 旬	zin2
@@ -7336,6 +7347,7 @@ import_tables:
 塌	thaeq7
 搨	thaeq7
 蹋	thaeq7
+鰨	thaeq7
 拓	thaeq7
 獺	thaeq7
 澾	thaeq7
@@ -7591,6 +7603,7 @@ import_tables:
 虐	gniaq8
 瘧	gniaq8
 搦	gniaq8
+篛	gniaq8
 藥	yaq8
 薬	yaq8
 葯	yaq8
@@ -8008,6 +8021,7 @@ import_tables:
 篾	miq8
 蔑	miq8
 衊	miq8
+蠛	miq8
 蜜	miq8
 密	miq8
 蔤	miq8
@@ -8054,6 +8068,7 @@ import_tables:
 喋	diq8
 蹀	diq8
 堞	diq8
+鰈	diq8
 笛	diq8
 迪	diq8
 敵	diq8
@@ -8142,6 +8157,7 @@ import_tables:
 七	tshiq7
 柒	tshiq7
 戚	tshiq7
+䗩	tshiq7
 慼	tshiq7
 鏚	tshiq7
 嘁	tshiq7
