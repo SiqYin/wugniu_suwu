@@ -27,6 +27,7 @@ import_tables:
 茲	tsy1
 滋	tsy1
 孳	tsy1
+甾	tsy1
 錙	tsy1
 輜	tsy1
 淄	tsy1
@@ -186,6 +187,7 @@ import_tables:
 渚	tsyu3
 嘴	tsyu3
 丶	tsyu3
+軹	tsyu3
 嘴	tse3
 嘴	tsoe3
 咫	tsyu3
@@ -353,6 +355,7 @@ import_tables:
 滍	zyu6
 廌	zyu6
 彘	zyu6
+璏	zyu6
 屄	pi1
 蓖	pi1
 毴	pi1
@@ -870,6 +873,7 @@ import_tables:
 義	gni6
 議	gni6
 蟻	gni6
+轙	gni6
 螘	gni6
 艤	gni6
 藝	gni6
@@ -971,6 +975,7 @@ import_tables:
 伊	yi2
 傒	yi2
 渠	yi2		#詞「伊yi2」之本字
+匜	yi2
 系	yi6
 係	yi6
 繫	yi6
@@ -1248,6 +1253,7 @@ import_tables:
 壚	lu2
 轤	lu2
 艫	lu2
+曥	lu2
 𤬛	lu2
 羅	lu2
 罖	lu2
@@ -1490,6 +1496,7 @@ import_tables:
 乊	wu2
 和	wu2
 龢	wu2
+盉	wu2
 河	wu2
 何	wu2
 荷	wu2
@@ -2688,6 +2695,7 @@ import_tables:
 咾	lau6
 焦	tsiau1
 礁	tsiau1
+鐎	tsiau1
 蕉	tsiau1
 椒	tsiau1
 鷦	tsiau1
@@ -2970,6 +2978,7 @@ import_tables:
 洲	tseu1
 喌	tseu1
 舟	tseu1
+輈	tseu1
 倜	tseu1
 盩	tseu1
 陬	tseu1
@@ -3238,6 +3247,7 @@ import_tables:
 后	yeu6
 後	yeu6
 牖	yeu6
+卣	yeu6
 友	ieu3
 優	ieu1
 憂	ieu1
@@ -3441,6 +3451,7 @@ import_tables:
 撣	te3
 對	te5
 襨	te5
+轛	te5
 碓	te5
 戴	te5
 帶	te5
@@ -3968,6 +3979,7 @@ import_tables:
 璦	e5
 晏	e5
 隘	e5
+賹	e5
 邊	pie1
 編	pie1
 煸	pie1
@@ -4339,6 +4351,7 @@ import_tables:
 幰	shie3
 憲	shie5
 顯	shie5
+韅	shie5
 獻	shie5
 蜆	shie5
 莧	shie5
@@ -4645,6 +4658,7 @@ import_tables:
 頠	we6
 蜼	we6
 蟪	we6
+軎	we6
 威	ue1
 葳	ue1
 崴	ue1
@@ -5129,6 +5143,8 @@ import_tables:
 冠	kuoe1
 管	kuoe3
 館	kuoe3
+輨	kuoe3
+錧	kuoe3
 琯	kuoe3
 杆	kuoe3
 莞	kuoe3
@@ -5239,11 +5255,13 @@ import_tables:
 睜	tsan1
 長	tsan3
 漲	tsan3
+𬔡	tsan3
 掌	tsan3
 帳	tsan5
 賬	tsan5
 脹	tsan5
 漲	tsan5
+𬔡	tsan5
 仗	tsan5
 障	tsan5
 嶂	tsan5
@@ -5280,6 +5298,7 @@ import_tables:
 長	zan2
 萇	zan2
 䠆	zan2
+𬔡	zan2
 常	zan2
 嫦	zan2
 嘗	zan2
@@ -5756,6 +5775,8 @@ import_tables:
 頏	ghaon2
 吭	ghaon2
 魧	ghaon2
+缿	ghaon2
+銗	ghaon2
 沆	ghaon6
 巷	ghaon6
 項	ghaon6
@@ -5772,6 +5793,8 @@ import_tables:
 框	chiaon1
 羌	chiaon1
 腔	chiaon1
+缿	yaon2
+銗	yaon2
 旺	yaon6
 光	kuaon1
 胱	kuaon1
@@ -5841,6 +5864,7 @@ import_tables:
 枉	uaon3
 汪	uaon5
 奔	pen1
+錛	pen1
 畚	pen1
 賁	pen1
 崩	pen1
@@ -6461,6 +6485,7 @@ import_tables:
 羚	lin2
 伶	lin2
 聆	lin2
+軨	lin2
 齡	lin2
 蛉	lin2
 泠	lin2
@@ -6792,6 +6817,8 @@ import_tables:
 郢	in3
 廮	in3
 癭	in3
+靷	in3
+紖	in3
 飲	in5
 印	in5
 應	in5
@@ -8297,6 +8324,7 @@ import_tables:
 禊	shiq7
 褉	shiq7
 扱	shiq7
+鍱	yiq8
 葉	yiq8
 頁	yiq8
 液	yiq8
