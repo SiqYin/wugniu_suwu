@@ -457,6 +457,8 @@ import_tables:
 味	mi6
 尾	mi6
 梶	mi6
+芈	mi6
+羋	mi6
 飛	fi1
 非	fi1
 菲	fi1
@@ -902,6 +904,8 @@ import_tables:
 尔	gni6
 鉨	gni6
 鑈	gni6
+嬭	gni6
+妳	gni6
 掜	gni6
 睨	gni6
 顗	gni6
@@ -3272,6 +3276,7 @@ import_tables:
 友	ieu3
 優	ieu1
 憂	ieu1
+鄾	ieu1
 攸	ieu1
 悠	ieu1
 幽	ieu1
@@ -4474,6 +4479,7 @@ import_tables:
 揜	ie3
 媕	ie3
 罨	ie3
+酓	ie3
 燕	ie5
 嚥	ie5
 讌	ie5
@@ -4661,6 +4667,7 @@ import_tables:
 尉	we6
 慰	we6
 蔚	we6
+薳	we6
 魏	we6
 會	we6
 繪	we6
