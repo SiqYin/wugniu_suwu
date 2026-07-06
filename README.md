@@ -211,7 +211,7 @@ Diaule min souzy piau ziezydiau, betsyu 'zie' piau seqyon ziezy vewe, 'gheu' pia
 
 8XC 23-44 geqba 弗标
 
-当声母m n l搭配阴声调辰，记作'm 'n 'l。如：美好（me3hau3-5x）为'mehau；拉la1为''la。
+当声母m n l搭配阴声调辰，记作'm 'n 'l。如：美好（me3hau3-5x）为'mehau；拉la1为''la。er6为er，er1为'er。
 
 本文拼音文统一采用声调简化标记法。
 
