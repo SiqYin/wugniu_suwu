@@ -3478,6 +3478,7 @@ import_tables:
 鄲	te1
 簞	te1
 殫	te1
+癉	te1
 耽	te1
 躭	te1
 擔	te1
@@ -3493,6 +3494,7 @@ import_tables:
 疸	te3
 担	te3
 撣	te3
+癉	te3
 對	te5
 襨	te5
 轛	te5
@@ -5166,6 +5168,8 @@ import_tables:
 𧾎	shioe1
 儇	shioe1
 翾	shioe1
+烜	shioe3
+晅	shioe3
 渲	shioe5
 楦	shioe5
 絢	shioe5
@@ -5222,6 +5226,7 @@ import_tables:
 瓘	kuoe5
 鸛	kuoe5
 灌	kuoe5
+爟	kuoe5
 觀	kuoe5
 冠	kuoe5
 盥	kuoe5
