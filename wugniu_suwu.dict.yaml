@@ -2360,6 +2360,7 @@ import_tables:
 套	thau5
 逃	dau2
 桃	dau2
+駣	dau2
 淘	dau2
 陶	dau2
 啕	dau2
@@ -3131,6 +3132,7 @@ import_tables:
 揉	zeu2
 蹂	zeu2
 鞣	zeu2
+鯈	zeu2
 酋	zieu2
 遒	zieu2
 揂	zieu2
@@ -3296,6 +3298,7 @@ import_tables:
 浟	yeu2
 肬	yeu2
 𩑣	yeu2
+鯈	yeu2
 又	yeu6
 有	yeu6
 侑	yeu6
@@ -4949,6 +4952,12 @@ import_tables:
 喘	tshoe3
 舛	tshoe3
 纂	tshoe3
+纘	tshoe3
+纉	tshoe3
+籫	tshoe3
+繤	tshoe3
+儹	tshoe3
+𦆈	tshoe3
 淬	tshoe5		#上海又音
 焠	tshoe5		#上海又音
 粹	tshoe5		#上海又音
@@ -4963,6 +4972,7 @@ import_tables:
 爨	tshoe5
 釧	tshoe5
 諯	tshoe5
+䂎	tshoe5
 閂	soe1
 扇	soe1
 酸	soe1
@@ -6882,6 +6892,7 @@ import_tables:
 楹	yin2
 行	yin2
 珩	yin2
+胻	yin2
 形	yin2
 邢	yin2
 型	yin2
@@ -8100,6 +8111,7 @@ import_tables:
 呃	eq7
 咹	eq7
 閼	eq7
+个	eq7		#「个keq7」之上海俗音
 癟	piq7
 𤉤	piq7
 㢼	piq7
