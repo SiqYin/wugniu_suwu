@@ -33,6 +33,7 @@ import_tables:
 淄	tsy1
 緇	tsy1
 菑	tsy1
+葘	tsy1
 髭	tsy1
 齜	tsy1
 貲	tsy1
@@ -324,6 +325,8 @@ import_tables:
 椎	zyu2
 篪	zyu2
 踟	zyu2
+殳	zyu2
+杸	zyu2
 穗	zyu6
 氏	zyu6
 舐	zyu6
@@ -537,6 +540,7 @@ import_tables:
 蒂	ti5
 碲	ti5
 媂	ti5
+禘	ti5
 梯	thi1
 銻	thi1
 綈	thi1
@@ -1734,6 +1738,7 @@ import_tables:
 畲	yu2
 旟	yu2
 謣	yu2
+邘	yu2
 雨	yu6
 禹	yu6
 偊	yu6
@@ -1770,6 +1775,7 @@ import_tables:
 與	iu3
 嶼	iu3
 瑀	iu3
+斞	iu3
 喂	iu5
 餵	iu5
 嫗	iu5
@@ -1983,6 +1989,8 @@ import_tables:
 假	cia3
 解	cia3
 檞	cia3
+斝	cia3
+斚	cia3
 架	cia5
 駕	cia5
 嫁	cia5
@@ -2393,6 +2401,7 @@ import_tables:
 𧳨	nau2
 呶	nau2
 峱	nau2
+夒	nau2
 腦	nau6
 惱	nau6
 鬧	nau6
@@ -2554,6 +2563,7 @@ import_tables:
 敲	khau1
 尻	khau1
 訄	khau1
+鄗	khau1
 考	khau3
 攷	khau3
 拷	khau3
@@ -2845,6 +2855,7 @@ import_tables:
 敲	chiau1
 橇	chiau1
 蹻	chiau1
+鄗	chiau1
 巧	chiau3
 竅	chiau5
 翹	chiau5
@@ -3187,6 +3198,7 @@ import_tables:
 摳	kheu1
 剾	kheu1
 緱	kheu1
+䁱	kheu1
 口	kheu3
 扣	kheu5
 釦	kheu5
@@ -3488,6 +3500,7 @@ import_tables:
 汎	fe5
 𣍐	fe5
 𠀾	fe5
+氾	fe5
 煩	ve2
 繁	ve2
 凡	ve2
@@ -3723,6 +3736,7 @@ import_tables:
 災	tse1
 栽	tse1
 哉	tse1
+烖	tse1
 再	tse1
 者	tse1
 者	tse3
@@ -3811,6 +3825,7 @@ import_tables:
 𪙦	tshe5
 毳	tshe5
 孱	tshe5
+棌	tshe5
 雖	se1
 雖	soe1		#上海又音
 綏	se1
@@ -3844,6 +3859,7 @@ import_tables:
 噻	se1
 眭	se1
 摻	se1
+㰑	se1
 散	se3
 髓	se3
 䭉	se3
@@ -5004,6 +5020,7 @@ import_tables:
 苫	soe5
 算	soe5
 蒜	soe5
+掞	soe5
 蠶	zoe2
 禪	zoe2
 嬋	zoe2
@@ -5025,6 +5042,7 @@ import_tables:
 椯	zoe2
 輲	zoe2
 巑	zoe2
+躔	zoe2
 纏	zoe6
 單	zoe6
 単	zoe6
@@ -5665,7 +5683,6 @@ import_tables:
 尨	baon2
 厖	baon2
 庬	baon2
-狵	baon2
 棒	baon6
 傍	baon6
 𰻞	bian2
@@ -5680,6 +5697,7 @@ import_tables:
 杧	maon2
 𩷶	maon2
 亾	maon2
+狵	maon2
 莽	maon6
 蟒	maon6
 望	maon6
@@ -5908,6 +5926,7 @@ import_tables:
 摃	gaon2
 戇	gaon6
 昂	ngaon2
+卬	ngaon2
 行	ghaon2
 絎	ghaon2
 航	ghaon2
@@ -7398,6 +7417,7 @@ import_tables:
 邛	jion2
 筇	jion2
 蛩	jion2
+卭	jion2
 戎	gnion1
 毧	gnion2
 濃	gnion2
@@ -7491,6 +7511,7 @@ import_tables:
 䶀	taeq7
 妲	taeq7
 炟	taeq7
+怛	taeq7
 靼	taeq7
 笪	taeq7
 㿯	taeq7
@@ -7510,7 +7531,6 @@ import_tables:
 拓	thaeq7
 獺	thaeq7
 澾	thaeq7
-怛	thaeq7
 漯	thaeq7
 沓	daeq8
 達	daeq8
@@ -7541,6 +7561,7 @@ import_tables:
 瘌	laeq8
 鬎	laeq8
 腊	laeq8
+猎	laeq8
 紮	tsaeq7
 扎	tsaeq7
 劄	tsaeq7
@@ -7773,6 +7794,8 @@ import_tables:
 葯	yaq8
 鑰	yaq8
 俠	yaq8
+龠	yaq8
+籥	yaq8
 約	iaq7
 躍	iaq7
 撥	peq7
@@ -8059,8 +8082,8 @@ import_tables:
 陟	zeq8
 蛥	zeq8
 湜	zeq8
-個	keq7
 个	keq7
+個	keq7
 革	keq7
 緙	keq7
 愅	keq7
@@ -8082,6 +8105,7 @@ import_tables:
 頜	keq7
 郃	keq7
 佮	keq7
+鬲	keq7
 隔	keq7
 嗝	keq7
 鎘	keq7
@@ -8327,6 +8351,7 @@ import_tables:
 楫	tsiq7
 勣	tsiq7
 尐	tsiq7
+戢	tsiq7
 切	tshiq7
 竊	tshiq7
 妾	tshiq7
@@ -8534,6 +8559,8 @@ import_tables:
 玴	yiq8
 𤤺	yiq8
 拽	yiq8
+跩	yiq8
+曵	yiq8
 曄	yiq8
 燁	yiq8
 越	yiq8
@@ -8685,6 +8712,7 @@ import_tables:
 聿	yuq8
 疫	yuq8
 役	yuq8
+矞	yuq8
 燏	yuq8
 遹	yuq8
 鷸	yuq8
@@ -8782,6 +8810,7 @@ import_tables:
 服	voq8
 菔	voq8
 匐	voq8
+虙	voq8
 沰	toq7
 涿	toq7
 篤	toq7
@@ -9036,6 +9065,7 @@ import_tables:
 齶	hoq7
 謞	hoq7
 熇	hoq7
+鄗	hoq7
 攉	hoq7
 劐	hoq7
 鍙	hoq7
