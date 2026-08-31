@@ -4705,6 +4705,7 @@ import_tables:
 晦	hue5
 喙	hue5
 翽	hue5
+噦	hue5
 濊	hue5
 為	we2
 爲	we2
@@ -4774,7 +4775,6 @@ import_tables:
 慧	we6
 槥	we6
 穢	we6
-噦	we6
 外	we6
 繯	we6
 擐	we6
@@ -8139,7 +8139,7 @@ import_tables:
 厄	ngeq8
 扼	ngeq8
 軛	ngeq8
-月	ngeq8
+月	ngeq8		#蘇州音白讀
 兀	ngeq8
 杌	ngeq8
 屼	ngeq8
@@ -8727,6 +8727,7 @@ import_tables:
 鬱	iuq7
 𢺴	iuq7
 菀	iuq7
+噦	iuq7
 駁	poq7
 駮	poq7
 搏	poq7
@@ -9119,7 +9120,7 @@ import_tables:
 跼	jioq8
 焗	jioq8
 軸	jioq8
-月	gnioq8
+月	gnioq8		#上海又音白讀
 褥	gnioq8
 縟	gnioq8
 搙	gnioq8
@@ -9130,7 +9131,7 @@ import_tables:
 𢫭	gnioq8
 衂	gnioq8
 衄	gnioq8
-月	gniuq8
+月	gniuq8		#上海音白讀/舊蘇州音白讀，推薦白讀
 畜	shioq7
 蓄	shioq7
 旭	shioq7
