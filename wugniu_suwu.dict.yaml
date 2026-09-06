@@ -459,6 +459,7 @@ import_tables:
 謎	mi2
 醚	mi2
 麋	mi2
+蘪	mi2
 糜	mi2
 縻	mi2
 彌	mi2
@@ -1087,6 +1088,7 @@ import_tables:
 氆	phu3
 跛	phu3
 叵	phu3
+笸	phu3
 鉕	phu3
 鋪	phu5
 破	phu5
@@ -2398,6 +2400,7 @@ import_tables:
 鼗	dau2
 鞀	dau2
 道	dau6
+衜	dau6
 盜	dau6
 導	dau6
 稻	dau6
@@ -3636,6 +3639,7 @@ import_tables:
 柋	de6
 待	de6
 殆	de6
+紿	de6
 怠	de6
 逮	de6
 埭	de6
@@ -6388,6 +6392,7 @@ import_tables:
 忱	zen2
 塵	zen2
 臣	zen2
+茞	zen2
 神	zen2
 人	zen2
 仁	zen2
@@ -8563,6 +8568,8 @@ import_tables:
 鉨	gniq8
 鑈	gniq8
 櫱	gniq8
+糵	gniq8
+糱	gniq8
 蠥	gniq8
 孼	gniq8
 艗	gniq8
@@ -8680,6 +8687,7 @@ import_tables:
 㦌	hueq7
 濊	hueq7
 活	weq8
+秮	weq8
 或	weq8
 惑	weq8
 穫	weq8
