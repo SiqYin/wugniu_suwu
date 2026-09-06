@@ -1081,6 +1081,7 @@ import_tables:
 普	phu3
 譜	phu3
 鐠	phu3
+暜	phu3
 浦	phu3
 埔	phu3
 圃	phu3
@@ -1133,6 +1134,7 @@ import_tables:
 稃	fu1
 郛	fu1
 枹	fu1
+罦	fu1
 斧	fu3
 輔	fu3
 甫	fu3
@@ -1474,6 +1476,7 @@ import_tables:
 苦	khu3
 可	khu3
 坷	khu3
+哿	khu3
 庫	khu5
 褲	khu5
 絝	khu5
@@ -1697,6 +1700,7 @@ import_tables:
 寓	gniu6
 蕊	gniu6
 馭	gniu6
+麌	gniu6
 虛	shiu1
 噓	shiu1
 墟	shiu1
@@ -3233,6 +3237,7 @@ import_tables:
 吼	heu1
 鱟	heu5
 吼	heu5
+豞	heu5
 侯	gheu2
 猴	gheu2
 喉	gheu2
@@ -7078,6 +7083,8 @@ import_tables:
 混	wen6
 諢	wen6
 溷	wen6
+慁	wen6
+㥵	wen6
 䐊	wen6
 焜	wen6
 溫	uen1
@@ -7215,10 +7222,12 @@ import_tables:
 潼	don2
 僮	don2
 橦	don2
+犝	don2
 同	don2
 桐	don2
 侗	don2
 銅	don2
+𦨴	don2
 烔	don2
 茼	don2
 峒	don2
@@ -7230,6 +7239,8 @@ import_tables:
 艟	don2
 仝	don2
 砼	don2
+筩	don2
+曈	don2
 桶	don6
 洞	don6
 恫	don6
@@ -7238,7 +7249,8 @@ import_tables:
 姛	don6
 筒	don6
 胴	don6
-硐	don6
+戙	don6
+㢥	don6
 動	don6
 慟	don6
 働	don6
@@ -7286,6 +7298,7 @@ import_tables:
 牂	tson1
 樅	tson1
 𫩘	tson1
+𦬕	tson1
 總	tson3
 種	tson3
 腫	tson3
@@ -7320,6 +7333,7 @@ import_tables:
 琮	tshon1
 淙	tshon1
 憃	tshon1
+罿	tshon1
 寵	tshon3
 𥅻	tshon5
 銃	tshon5
@@ -7710,6 +7724,8 @@ import_tables:
 掝	huaeq7
 𨐶	huaeq7
 螖	huaeq7
+鎋	huaeq7
+舝	huaeq7
 滑	waeq8
 猾	waeq8
 劃	waeq8
