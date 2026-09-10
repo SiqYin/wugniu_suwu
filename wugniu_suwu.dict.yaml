@@ -1440,6 +1440,7 @@ import_tables:
 羖	ku3
 𦍩	ku3
 盬	ku3
+嗰	ku3
 顧	ku5
 雇	ku5
 僱	ku5
@@ -1449,6 +1450,7 @@ import_tables:
 棝	ku5
 稒	ku5
 堌	ku5
+箇	ku5
 崮	ku5
 錮	ku5
 痼	ku5
@@ -8145,6 +8147,8 @@ import_tables:
 湜	zeq8
 个	keq7
 個	keq7
+嗰	keq7
+箇	keq7
 革	keq7
 緙	keq7
 愅	keq7
@@ -8185,7 +8189,7 @@ import_tables:
 栲	kheq7
 渴	kheq7
 搿	geq8
-箇	geq8
+箇	geq8		#方位代詞「geq8」之方言正字，亦可用「搿」
 覈	ngeq8
 劾	ngeq8
 額	ngeq8
