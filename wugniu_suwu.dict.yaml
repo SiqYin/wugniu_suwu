@@ -7712,6 +7712,7 @@ import_tables:
 齾	ngaeq8
 瞎	haeq7
 呷	haeq7
+轄	haeq7		#上海又音白讀
 狹	ghaeq8
 盒	ghaeq8
 匣	ghaeq8
@@ -7730,8 +7731,10 @@ import_tables:
 恰	chiaeq7
 掐	chiaeq7
 㖏	gniaeq8
+轄	shiaeq7		#上海又音文讀
 峽	yaeq8
 狹	yaeq8
+轄	yaeq8		#蘇州舊文讀
 鴨	iaeq7
 刮	kuaeq7
 颳	kuaeq7
