@@ -5242,6 +5242,7 @@ import_tables:
 唵	oe3
 垵	oe3
 埯	oe3
+罯	oe3
 暗	oe5
 黯	oe5
 闇	oe5
@@ -7775,6 +7776,7 @@ import_tables:
 阿	aeq7
 啊	aeq7
 腌	aeq7
+𨂁	aeq7
 甲	ciaeq7
 鉀	ciaeq7
 胛	ciaeq7
@@ -8263,6 +8265,7 @@ import_tables:
 榼	kheq7
 栲	kheq7
 渴	kheq7
+搕	kheq7
 搿	geq8
 箇	geq8		#方位代詞「geq8」之方言正字，亦可用「搿」
 覈	ngeq8
@@ -8303,6 +8306,16 @@ import_tables:
 咹	eq7
 閼	eq7
 个	eq7		#「个keq7」之上海俗音
+鞥	eq7 
+𤸱	eq7 
+鰪	eq7 
+𩇠	eq7 
+㔩	eq7 
+廅	eq7 
+𨂁	eq7
+𩋊	eq7
+罯	eq7
+姶	eq7
 癟	piq7
 𤉤	piq7
 㢼	piq7
@@ -8768,7 +8781,9 @@ import_tables:
 挹	iq7
 悒	iq7
 䭂	iq7
+唈	iq7
 屹	iq7
+搕	iq7
 國	kueq7
 囗	kueq7
 囯	kueq7
