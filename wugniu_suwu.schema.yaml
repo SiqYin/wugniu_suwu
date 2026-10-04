@@ -147,9 +147,10 @@ translator:
 
 # 語法模型（octagram / 八股文）
 # 由吳語正字法語料搭 wuphin 詞庫練成个字符 2–6 gram 模型
-# 模型檔 wu-suhu.gram 必須與下面 language 逐字相同，並且同放用戶文件夾
+# 已適配多套輸出字形：詞庫原形（漢字）/ 吳語漢字 / 簡體（汉字）
+# 模型檔 wugniu_suwu.gram 必須與下面 language 逐字相同，並且同放用戶文件夾
 grammar:
-  language: wu-suhu
+  language: wugniu_suwu
   collocation_min_length: 2  # 弗可省，否則 2-gram 命中會畀 weak 懲罰壓脫
   collocation_max_length: 6  # 對應模型實際構建个 2–6 階
 
