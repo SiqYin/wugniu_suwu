@@ -62,6 +62,8 @@ import_tables:
 跐	tsy3
 茈	tsy3
 徴	tsy3
+呰	tsy3
+啙	tsy3
 恣	tsy5
 漬	tsy5
 剚	tsy5
@@ -196,6 +198,7 @@ import_tables:
 炷	tsyu3
 拄	tsyu3
 煮	tsyu3
+煑	tsyu3
 渚	tsyu3
 嘴	tsyu3
 丶	tsyu3
@@ -418,6 +421,7 @@ import_tables:
 匕	phi3
 吡	phi3
 紴	phi3
+諀	phi3
 䫌	phi3
 屁	phi5
 譬	phi5
@@ -800,6 +804,7 @@ import_tables:
 寄	ci5
 姬	ci5
 既	ci5
+穊	ci5
 暨	ci5
 季	ci5
 悸	ci5
@@ -1823,6 +1828,7 @@ import_tables:
 罷	ba6
 敗	ba6
 稗	ba6
+䇑	ba6
 吧	ba
 馬	ma1
 媽	ma1
@@ -3032,6 +3038,7 @@ import_tables:
 抖	teu3
 蚪	teu3
 鈄	teu3
+㪷	teu3
 乧	teu3
 枓	teu3
 陡	teu3
@@ -3410,6 +3417,7 @@ import_tables:
 卑	pe1
 碑	pe1
 萆	pe1
+豍	pe1
 鵯	pe1
 頒	pe1
 蓖	pe1
@@ -5027,6 +5035,7 @@ import_tables:
 參	tshoe1
 驂	tshoe1
 餐	tshoe1
+湌	tshoe1
 躥	tshoe1
 攛	tshoe1
 穿	tshoe1
@@ -6415,6 +6424,7 @@ import_tables:
 珗	sen1
 苼	sen1
 燊	sen1
+飧	sen1
 瀋	sen3
 審	sen3
 嬸	sen3
@@ -7763,6 +7773,7 @@ import_tables:
 咭	khaeq7
 䶀	khaeq7
 軋	gaeq8
+歺	ngaeq8
 齾	ngaeq8
 瞎	haeq7
 呷	haeq7
@@ -8115,6 +8126,8 @@ import_tables:
 熾	tsheq7
 叱	tsheq7
 敕	tsheq7
+勅	tsheq7
+勑	tsheq7
 鷘	tsheq7
 飭	tsheq7
 撮	tsheq7
@@ -8630,6 +8643,7 @@ import_tables:
 劼	ciq7
 伋	ciq7
 忦	ciq7
+㪴	ciq7
 怯	chiq7
 泣	chiq7
 乞	chiq7
@@ -9242,6 +9256,7 @@ import_tables:
 涸	ghoq8
 斛	ghoq8
 槲	ghoq8
+㪶	ghoq8
 學	ghoq8
 鵠	ghoq8
 屋	oq7
