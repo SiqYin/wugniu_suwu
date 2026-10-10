@@ -865,6 +865,9 @@ import_tables:
 琦	ji2
 畸	ji2
 埼	ji2
+碕	ji2
+嵜	ji2
+𥔎	ji2
 歧	ji2
 岐	ji2
 祈	ji2
@@ -1073,6 +1076,7 @@ import_tables:
 曀	i5
 椅	i5
 倚	i5
+陭	i5
 漪	i5
 玻	pu1
 菠	pu1
@@ -1615,6 +1619,7 @@ import_tables:
 午	u1
 仵	u1
 忤	u1
+玝	u1
 汙	u1
 污	u1
 圬	u1
@@ -1891,6 +1896,8 @@ import_tables:
 抓	tsa1
 齋	tsa1
 咱	tsa1
+喒	tsa1
+偺	tsa1
 抓	tsa3
 笊	tsa3
 債	tsa5
@@ -2210,6 +2217,7 @@ import_tables:
 砟	tso5
 柞	tso5
 蚱	tso5
+笮	tso5
 榨	tso5
 吒	tso5
 蔗	tso5
@@ -3818,6 +3826,7 @@ import_tables:
 崽	tse3
 斬	tse3
 嶄	tse3
+昝	tse3
 琖	tse3
 盞	tse3
 醉	tse5
@@ -5350,6 +5359,7 @@ import_tables:
 淵	yoe2
 渕	yoe2
 垣	yoe2
+洹	yoe2
 懸	yoe2
 玄	yoe2
 眩	yoe2
@@ -8124,6 +8134,7 @@ import_tables:
 戠	tseq7
 捗	tseq7
 讋	tseq7
+笮	tseq7
 策	tsheq7
 測	tsheq7
 惻	tsheq7
@@ -8361,7 +8372,6 @@ import_tables:
 鉍	piq7
 珌	piq7
 佖	piq7
-苾	piq7
 畢	piq7
 嗶	piq7
 饆	piq7
@@ -8398,6 +8408,7 @@ import_tables:
 枇	biq8
 堛	biq8
 㧙	biq8
+苾	biq8
 吡	biq8
 萆	biq8
 滅	miq8
@@ -9388,5 +9399,6 @@ import_tables:
 伍	ng6
 午	ng6
 忤	ng6
+玝	ng6
 仵	ng6
 兒	ng6
