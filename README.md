@@ -1,3 +1,7 @@
+<div align="center">
+    <img width="200" height="200" src="https://github.com/SiqYin/wugniu_suwu/blob/main/wugniuji.ico">
+</div>
+
 该方案个安卓直装版输入法：https://github.com/SiqYin/fcitx5-android 。
 
 苏沪混合腔是吴语以中派苏州话与老派上海话箇两种接近个吴语方言为基础，兼考北部吴语诸方言音韵特征个混合腔口。苏沪混合腔个音系与字音经过仔审音与语音规范哉。苏沪混合腔属于吴语自然方言个规范化变体。
