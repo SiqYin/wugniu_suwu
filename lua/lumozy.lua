@@ -202,6 +202,11 @@ end
 -- 句首自動大寫：會話起始、句末標點（. ! ?）、回車之後，下一詞
 -- 首字母自動大寫；用戶親自敲个大寫永遠優先。
 local cap_next = true
+-- 點選候選（手機候選欄／鼠標）走 API 直選，弗產按鍵事件，處理器
+-- 攔弗著。辦法：每趟按鍵開頭對 commit_history 檢查「未經處理个
+-- 提交」（type 弗是 thru 个新記錄），補推指示空格。
+local last_hist_text = nil
+local ext_pending = false
 local cap_lock = false
 -- 自最近句首點以來，本方案發出到正文个字符數：
 -- 退格刪到 0，就等於回到句首，重新打開自動大寫
@@ -227,6 +232,7 @@ local function after_commit(ctx)
     local e = ctx.commit_history:back()
     if e and e.text then
       chars_since_start = chars_since_start + #e.text
+      last_hist_text = e.text
     end
   end)
   if not cap_lock then
@@ -250,8 +256,34 @@ function M.case_processor(key, env)
     ctx:set_option('varients_wy', true)
   end
 
+  -- 外部提交檢測：commit_history 出現新个非 thru 記錄＝有隻
+  -- 提交（點選候選等）繞過了處理器，記賬並挂起「下詞前導空格」。
+  -- thru＝引擎記錄个未處理按鍵（如直通標點），弗是提交，弗理。
+  do
+    local ok, ext = pcall(function()
+      local h = ctx.commit_history
+      if h:empty() then
+        last_hist_text = nil
+        return nil
+      end
+      local r = h:back()
+      if r.type == 'thru' then return nil end
+      if r.text == '' or r.text == last_hist_text then return nil end
+      return r.text
+    end)
+    if ok and ext then
+      last_hist_text = ext
+      chars_since_start = chars_since_start + #ext
+      if not cap_lock then
+        cap_next = false
+      end
+      ext_pending = true
+      log.info('lumozy ext-commit [' .. ext .. ']')
+    end
+  end
+
   local kc = key.keycode
-  log.info('lumozy enter v1.9 kc=' .. kc .. ' inp=[' .. inp ..
+  log.info('lumozy enter v1.10 kc=' .. kc .. ' inp=[' .. inp ..
     '] cap=' .. tostring(cap_next))
 
   -- 句末檢測：. ! ?、回車 → 下一詞首字母大寫
@@ -333,15 +365,26 @@ function M.case_processor(key, env)
   if inp:sub(1, 1) == '/' then
     return 2  -- 符號查詢段（/xx），照原樣處理
   end
-  if kc >= 65 and kc <= 90 then            -- A–Z
-    if ctx.caret_pos ~= #inp then return 2 end
-    orig_input = (orig_valid(inp) and orig_input or inp) .. string.char(kc)
-    ctx:push_input(string.char(kc + 32))
-    return 1  -- kAccepted
-  elseif kc >= 97 and kc <= 122 or (kc == 39 and inp ~= '') then  -- a–z、'
-    if ctx.caret_pos ~= #inp then return 2 end
-    orig_input = (orig_valid(inp) and orig_input or inp) .. string.char(kc)
+  local is_word_key = (kc >= 65 and kc <= 90)
+    or (kc >= 97 and kc <= 122)
+  if is_word_key then
+    -- 點選提交之後个頭一隻字母：補推指示空格（分隔隨詞上屏）
+    if ext_pending and inp == '' then
+      pcall(function() ctx:push_input(' ') end)
+      ext_pending = false
+      orig_input = ' '
+    end
+    if kc >= 65 and kc <= 90 then            -- A–Z
+      if ctx.caret_pos ~= #inp then return 2 end
+      orig_input = (orig_valid(inp) and orig_input or inp) .. string.char(kc)
+      ctx:push_input(string.char(kc + 32))
+      return 1  -- kAccepted
+    elseif kc >= 97 and kc <= 122 or (kc == 39 and inp ~= '') then  -- a–z、'
+      if ctx.caret_pos ~= #inp then return 2 end
+      orig_input = (orig_valid(inp) and orig_input or inp) .. string.char(kc)
+    end
   end
+  ext_pending = false
   return 2
 end
 
