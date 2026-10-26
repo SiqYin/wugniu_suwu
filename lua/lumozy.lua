@@ -238,7 +238,14 @@ local function after_commit(ctx)
   if not cap_lock then
     cap_next = false
   end
-  pcall(function() ctx:push_input(' ') end)
+  -- 組編區還有剩餘輸入（分段選擇）辰光弗好挂指示空格——
+  -- push_input 會接拉尾巴，壞脫後頭个輸入；分隔空格改由
+  -- 過濾器拉非末段候選文本尾部補。
+  pcall(function()
+    if ctx.input == '' then
+      ctx:push_input(' ')
+    end
+  end)
 end
 
 -- ============ 處理器：選詞收尾＋標點記賬＋大寫轉小寫 ============
@@ -303,8 +310,13 @@ function M.case_processor(key, env)
   local spaces_only = inp ~= '' and inp:match('^%s*$') ~= nil
   if spaces_only then
     if PUNCT_KEYS[kc] then
-      pcall(function() ctx:clear() end)
-      log.info('lumozy cling: indicator cleared for punct')
+      -- 清脫指示（含誤打多个空格），標點緊貼詞後；
+      -- 再挂一隻——標點之後个下一詞照樣有前導空格
+      pcall(function()
+        ctx:clear()
+        ctx:push_input(' ')
+      end)
+      log.info('lumozy cling: indicator re-armed after punct')
       return 0  -- kRejected，標點直通
     elseif kc == 13 or kc == 0xFF0D then
       pcall(function() ctx:clear() end)
@@ -314,6 +326,15 @@ function M.case_processor(key, env)
       return 1
     end
     -- 別个鍵（字母、退格、數字等）落下去正常處理
+  end
+
+  -- 組編區空个標點（例如詞上屏、指示空格撥退格彈脫之後）：
+  -- 標點直通，並挂一隻指示空格，保證標點後个下一詞有空格
+  if PUNCT_KEYS[kc] and inp == '' then
+    if not spaces_only then
+      pcall(function() ctx:push_input(' ') end)
+    end
+    return 0  -- kRejected
   end
 
   -- 詞中標點：親手擔詞上屏（標點本身弗進組編，原樣落盤：
@@ -326,17 +347,10 @@ function M.case_processor(key, env)
     return 0  -- kRejected
   end
 
-  -- 數字鍵選詞（1–9）：親手選定。反查（q/x 段）弗干預。
-  if kc >= 49 and kc <= 57 and inp ~= ''
-    and inp:sub(1, 1) ~= 'q' and inp:sub(1, 1) ~= 'x' then
-    local done = false
-    pcall(function() done = ctx:select(kc - 49) end)
-    if done then
-      after_commit(ctx)
-      return 1
-    end
-    return 2
-  end
+  -- 數字鍵選詞：弗攔，交畀 rime 个 selector——佢按「當前頁第幾個」
+  -- 定位。弗好自家調 ctx:select(n)：librime 个 Select 用全局序號，
+  -- 翻頁之後選會揀錯候選（整句候選一記頭上屏，剩餘部分廢脫）。
+  -- 點選／數字選詞个提交由下頭个外部提交檢測補記賬。
 
   -- 空格鍵：組編中＝選詞（立即完成＋挂指示空格）；
   -- 非組編＝直通，用戶手動加个真實空格。
@@ -503,10 +517,16 @@ function M.romazy_filter(input, env)
         end
       end
 
-      -- 句首自動大寫：淨拉用戶全程敲小寫个辰光生效（親自敲
-      -- 个大小寫永遠優先）；撇號後个頭一隻字母大寫
-      local auto_cap = cap_next and typed_full ~= ''
+      -- 句首自動大寫：淨對「組編區首段」生效（前綴衹有空格），
+      -- 且用戶全程敲小寫（親自敲个大寫永遠優先）。
+      -- 分段選詞辰光後續各段弗好也大寫。
+      local prefix_blank = inp:sub(1, cand.start):match('^%s*$') ~= nil
+      local auto_cap = cap_next and prefix_blank and typed_full ~= ''
         and typed_full == typed_full:lower()
+      -- 分段選擇：本候選弗喫完整个輸入（後頭還有剩餘），
+      -- 即「詞之一」，上屏文本尾部補一隻空格——敲四段選四次
+      -- 就出三隻空格，即四個詞。
+      local seg_sep = (cand._end < #inp) and ' ' or ''
       for ri, r in ipairs(roms) do
         local key = r .. '\1' .. hanzi
         if not seen[key] then
@@ -516,7 +536,7 @@ function M.romazy_filter(input, env)
             r = r:gsub('[a-z]', string.upper, 1)
           end
           local nc = Candidate(cand.type, cand.start, cand._end,
-                               r, hanzi)
+                               r .. seg_sep, hanzi)
           if typed_full and typed_full ~= '' then
             nc.preedit = typed_full
           else
