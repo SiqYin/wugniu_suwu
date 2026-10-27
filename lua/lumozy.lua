@@ -239,6 +239,46 @@ local PUNCT_KEYS = {
   [39] = true,  -- '
 }
 
+-- 修飾層標點：安卓 Trime 个 ?! 等係 「Shift+符號」送个
+-- （? = Shift+/，! = Shift+1），keycode 係下層字符。
+local SHIFT_PUNCT = {
+  [49] = '!', [50] = '@', [51] = '#', [52] = '$', [53] = '%',
+  [54] = '^', [55] = '&', [56] = '*', [57] = '(', [48] = ')',
+  [45] = '_', [61] = '+', [91] = '{', [93] = '}', [92] = '|',
+  [59] = ':', [39] = '"', [44] = '<', [46] = '>', [47] = '?',
+  [96] = '~',
+}
+
+-- 按鍵解析出來个標點字符；弗係標點就 nil
+local function punct_char(key, kc)
+  if key:shift() and SHIFT_PUNCT[kc] then
+    return SHIFT_PUNCT[kc]
+  end
+  if PUNCT_KEYS[kc] then
+    return string.char(kc)
+  end
+  return nil
+end
+
+-- 標點引擎親手上屏：清脫組編區（弗留殘餘指示空格），再 push
+-- 標點本體並 commit——同選候選同一條路。弗好交畀前端 kRejected：
+-- 安卓 Trime 對弗喫个鍵處理各樣，句讀會插到組編區前頭（光標
+-- 跑到標點左邊），Shift 層个 ?! 干脆弗插、賸落个指示空格倒上屏。
+local function commit_punct(ctx, ch)
+  pcall(function()
+    ctx:clear()
+    ctx:push_input(ch)
+    ctx:commit()
+  end)
+  log.info('lumozy punct [' .. ch .. ']')
+  chars_since_start = chars_since_start + 1
+  last_hist_text = ch
+  ext_pending = true            -- 下個詞照樣前導空格
+  if not cap_lock then
+    cap_next = false
+  end
+end
+
 -- 選詞之後个共同收尾：記字符數、關句首大寫（句末鍵当次除外）、
 -- 推入「待輸入空格」指示（佢就是下個詞个分隔空格）。
 -- 全部親手做，弗依賴通知。
@@ -305,19 +345,20 @@ function M.case_processor(key, env)
   end
 
   local kc = key.keycode
-  log.info('lumozy enter v1.12.3 kc=' .. kc .. ' inp=[' .. inp ..
+  log.info('lumozy enter v1.12.4 kc=' .. kc .. ' inp=[' .. inp ..
     '] cap=' .. tostring(cap_next))
 
   -- 句末檢測：. ! ?、回車 → 下一詞首字母大寫
   -- （本鍵当次个上屏弗清 cap_next，故設 cap_lock）
   cap_lock = false
-  if kc == 46 or kc == 33 or kc == 63 or kc == 13 or kc == 0xFF0D then
+  local pch = punct_char(key, kc)
+  if pch == '.' or pch == '!' or pch == '?' or kc == 13 or kc == 0xFF0D then
     cap_next = true
     cap_lock = true
     chars_since_start = 0
   end
   -- 組編區裏衹有「待輸入空格」指示个場化：
-  --   標點 → 清脫指示（含誤打个），標點緊貼詞後
+  --   標點 → 清脫指示（含誤打个），標點緊貼詞後再上屏
   --   回車 → 清脫，原始換行
   --   空格 → 再挂一隻（多格距離）
   --   退格 → 編輯器自然刪脫一隻指示空格
@@ -336,15 +377,9 @@ function M.case_processor(key, env)
       end
       return 2  -- 編輯器自然刪脫一隻空格
     end
-    if PUNCT_KEYS[kc] then
-      -- 清脫指示（含誤打多个空格），標點緊貼詞後；
-      -- 再挂一隻——標點之後个下一詞照樣有前導空格
-      pcall(function()
-        ctx:clear()
-        ctx:push_input(' ')
-      end)
-      log.info('lumozy cling: indicator re-armed after punct')
-      return 0  -- kRejected，標點直通
+    if pch then
+      commit_punct(ctx, pch)  -- 清脫指示空格，標點緊貼詞後上屏
+      return 1
     elseif kc == 13 or kc == 0xFF0D then
       pcall(function() ctx:clear() end)
       return 2
@@ -355,23 +390,31 @@ function M.case_processor(key, env)
     -- 別个鍵（字母、退格、數字等）落下去正常處理
   end
 
-  -- 組編區空个標點（例如詞上屏、指示空格撥退格彈脫之後）：
-  -- 標點直通，並挂一隻指示空格，保證標點後个下一詞有空格
-  if PUNCT_KEYS[kc] and inp == '' then
-    if not spaces_only then
-      pcall(function() ctx:push_input(' ') end)
+  -- 標點：引擎親手上屏（弗交畀前端 kRejected——安卓 Trime 對
+  -- 弗喫个鍵處理各樣：句讀插到組編區前頭、Shift 層 ?! 弗插）。
+  -- 組編中有詞就先擔詞上屏，再上標點；還有剩餘輸入就弗喫鍵，
+  -- 照舊交畀前端（分段選詞个罕見場化）。
+  if pch then
+    if inp ~= '' then
+      local ok = ctx:confirm_current_selection()
+      log.info('lumozy punct confirm=' .. tostring(ok))
+      -- 記賬（弗挂指示空格：標點馬上跟牢上屏）
+      pcall(function()
+        local e = ctx.commit_history:back()
+        if e and e.text and e.text ~= last_hist_text then
+          chars_since_start = chars_since_start + #e.text
+          last_hist_text = e.text
+        end
+      end)
+      if not cap_lock then
+        cap_next = false
+      end
     end
-    return 0  -- kRejected
-  end
-
-  -- 詞中標點：親手擔詞上屏（標點本身弗進組編，原樣落盤：
-  -- kRejected＝弗喫鍵）。必須攔拉 key_binder 前頭——default
-  -- 預設把組編中个 , . 綁成翻頁，弗攔就變翻頁哉。
-  if PUNCT_KEYS[kc] and inp ~= '' then
-    local ok = ctx:confirm_current_selection()
-    log.info('lumozy punct confirm=' .. tostring(ok))
-    after_commit(ctx)
-    return 0  -- kRejected
+    if ctx.input == '' then
+      commit_punct(ctx, pch)
+      return 1
+    end
+    return 0  -- kRejected（剩餘輸入弗動）
   end
 
   -- 數字鍵選詞：弗攔，交畀 rime 个 selector——佢按「當前頁第幾個」
