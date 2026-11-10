@@ -792,6 +792,7 @@ import_tables:
 畸	ci1
 羈	ci1
 笄	ci1
+筓	ci1
 乩	ci1
 稽	ci1
 嵇	ci1
@@ -8195,6 +8196,7 @@ import_tables:
 捗	tseq7
 讋	tseq7
 笮	tseq7
+磔	tseq7
 策	tsheq7
 測	tsheq7
 惻	tsheq7
@@ -9097,6 +9099,7 @@ import_tables:
 屬	toq7		#詞綴「-篤toq7」之本字
 托	thoq7
 託	thoq7
+矺	thoq7
 侂	thoq7
 拓	thoq7
 橐	thoq7
@@ -9163,6 +9166,7 @@ import_tables:
 麓	loq8
 樚	loq8
 戮	loq8
+僇	loq8
 犖	loq8
 蓼	loq8
 作	tsoq7
